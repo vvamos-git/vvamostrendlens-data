@@ -1,0 +1,8 @@
+{
+  "state": "success",
+  "message": "오늘 정규장 dayCandle 복구 및 스캔 완료",
+  "checked_at": "2026-10-01T21:27:21+09:00",
+  "asof": "2026-10-01",
+  "signals": 0,
+  "recovery": "Naver KRX dayCandle"
+}
