@@ -1,0 +1,65 @@
+{
+  "EndEquity": 1309217080.0912564,
+  "TotalReturn": 12.092170800912564,
+  "CAGR": 0.3423198246325241,
+  "MDD": -0.21230072370810493,
+  "Sharpe0": 1.314870924757183,
+  "Trades": 521,
+  "WinRate": 0.3474088291746641,
+  "ProfitFactorCurrencyPnL": 1.6735021147203424,
+  "AvgTrade": 0.04504602053566544,
+  "AvgExposure": 0.5369581638731533,
+  "MaxOpen": 10,
+  "Signals": 1561,
+  "SkippedQualifiedSignals": 910,
+  "InitialCapital": 100000000,
+  "PositionFrac": 0.125,
+  "CommissionEachSide": 0.00015,
+  "SlippageEachSide": 0.001,
+  "TotalCommission": 9825785.864150167,
+  "TotalSellTax": 64327143.92905108,
+  "TotalEstimatedSlippageCost": 65506587.97092895,
+  "CostModel": "commission 0.015% each side + slippage 0.10% each side + historical KOSPI/KOSDAQ sell tax",
+  "SellTaxSchedule": [
+    {
+      "Period": "through 2019-06-02",
+      "Rate": 0.003
+    },
+    {
+      "Period": "2019-06-03 through 2020-12-31",
+      "Rate": 0.0025
+    },
+    {
+      "Period": "2021-01-01 through 2022-12-31",
+      "Rate": 0.0023
+    },
+    {
+      "Period": "2023",
+      "Rate": 0.002
+    },
+    {
+      "Period": "2024",
+      "Rate": 0.0018
+    },
+    {
+      "Period": "2025",
+      "Rate": 0.0015
+    },
+    {
+      "Period": "2026",
+      "Rate": 0.002
+    }
+  ],
+  "StartDate": "2018-01-02",
+  "EndDate": "2026-09-28",
+  "MarketStateMA": 120,
+  "SignalPriority": "RS desc, volume ratio desc, code asc",
+  "Entry": "signal-day adjusted close with +0.10% buy slippage",
+  "Exit": "modeled trigger price with -0.10% sell slippage, commission and historical sell tax",
+  "SameBar": "stop-first if -8% and +24% both touched",
+  "TP24HitRate": 0.3550863723608445,
+  "ProfitFactor": 1.6735021147203424,
+  "BacktestVersion": "MARCAP_120D_COSTS_V1",
+  "Official": true,
+  "MethodologyNote": "MARCAP historical data; 120-day market-cap trend filter; current-equity 12.5% sizing; 0.015% commission each side; 0.10% slippage each side; historical sell tax; stop-first same-bar convention."
+}
