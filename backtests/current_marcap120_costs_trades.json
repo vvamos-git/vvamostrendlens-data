@@ -1,6 +1,7 @@
 [
   {
     "Code": "200130",
+    "Name": "콜마비앤에이치",
     "Market": "KOSDAQ",
     "EntryDate": "2018-01-19",
     "ExitDate": "2018-01-31",
@@ -15,6 +16,7 @@
   },
   {
     "Code": "084990",
+    "Name": "바이로메드",
     "Market": "KOSDAQ",
     "EntryDate": "2018-01-15",
     "ExitDate": "2018-02-05",
@@ -29,6 +31,7 @@
   },
   {
     "Code": "078340",
+    "Name": "컴투스",
     "Market": "KOSDAQ",
     "EntryDate": "2018-01-18",
     "ExitDate": "2018-02-05",
@@ -43,6 +46,7 @@
   },
   {
     "Code": "003540",
+    "Name": "대신증권",
     "Market": "KOSPI",
     "EntryDate": "2018-01-18",
     "ExitDate": "2018-02-05",
@@ -57,6 +61,7 @@
   },
   {
     "Code": "022100",
+    "Name": "포스코 ICT",
     "Market": "KOSDAQ",
     "EntryDate": "2018-01-15",
     "ExitDate": "2018-02-26",
@@ -71,6 +76,7 @@
   },
   {
     "Code": "003470",
+    "Name": "유안타증권",
     "Market": "KOSPI",
     "EntryDate": "2018-01-15",
     "ExitDate": "2018-03-05",
@@ -85,6 +91,7 @@
   },
   {
     "Code": "038540",
+    "Name": "텍셀네트컴",
     "Market": "KOSDAQ",
     "EntryDate": "2018-01-17",
     "ExitDate": "2018-03-05",
@@ -99,6 +106,7 @@
   },
   {
     "Code": "073070",
+    "Name": "넥센테크",
     "Market": "KOSDAQ",
     "EntryDate": "2018-03-13",
     "ExitDate": "2018-03-14",
@@ -113,6 +121,7 @@
   },
   {
     "Code": "032350",
+    "Name": "롯데관광개발",
     "Market": "KOSPI",
     "EntryDate": "2018-03-09",
     "ExitDate": "2018-03-15",
@@ -127,6 +136,7 @@
   },
   {
     "Code": "017800",
+    "Name": "현대엘리베이",
     "Market": "KOSPI",
     "EntryDate": "2018-03-09",
     "ExitDate": "2018-03-15",
@@ -141,6 +151,7 @@
   },
   {
     "Code": "007390",
+    "Name": "네이처셀",
     "Market": "KOSDAQ",
     "EntryDate": "2018-03-16",
     "ExitDate": "2018-03-19",
@@ -155,6 +166,7 @@
   },
   {
     "Code": "017800",
+    "Name": "현대엘리베이",
     "Market": "KOSPI",
     "EntryDate": "2018-03-19",
     "ExitDate": "2018-03-22",
@@ -169,6 +181,7 @@
   },
   {
     "Code": "084110",
+    "Name": "휴온스글로벌",
     "Market": "KOSDAQ",
     "EntryDate": "2018-03-21",
     "ExitDate": "2018-03-23",
@@ -183,6 +196,7 @@
   },
   {
     "Code": "200230",
+    "Name": "텔콘",
     "Market": "KOSDAQ",
     "EntryDate": "2018-03-26",
     "ExitDate": "2018-03-28",
@@ -197,6 +211,7 @@
   },
   {
     "Code": "032350",
+    "Name": "롯데관광개발",
     "Market": "KOSPI",
     "EntryDate": "2018-04-02",
     "ExitDate": "2018-04-05",
@@ -211,6 +226,7 @@
   },
   {
     "Code": "000250",
+    "Name": "삼천당제약",
     "Market": "KOSDAQ",
     "EntryDate": "2018-04-06",
     "ExitDate": "2018-04-19",
@@ -225,6 +241,7 @@
   },
   {
     "Code": "003000",
+    "Name": "부광약품",
     "Market": "KOSPI",
     "EntryDate": "2018-04-09",
     "ExitDate": "2018-04-19",
@@ -239,6 +256,7 @@
   },
   {
     "Code": "000100",
+    "Name": "유한양행",
     "Market": "KOSPI",
     "EntryDate": "2018-04-09",
     "ExitDate": "2018-04-19",
@@ -253,6 +271,7 @@
   },
   {
     "Code": "170900",
+    "Name": "동아에스티",
     "Market": "KOSPI",
     "EntryDate": "2018-04-13",
     "ExitDate": "2018-04-19",
@@ -267,6 +286,7 @@
   },
   {
     "Code": "017800",
+    "Name": "현대엘리베이",
     "Market": "KOSPI",
     "EntryDate": "2018-04-19",
     "ExitDate": "2018-04-24",
@@ -281,6 +301,7 @@
   },
   {
     "Code": "049950",
+    "Name": "미래컴퍼니",
     "Market": "KOSDAQ",
     "EntryDate": "2018-03-15",
     "ExitDate": "2018-05-02",
@@ -295,6 +316,7 @@
   },
   {
     "Code": "025860",
+    "Name": "남해화학",
     "Market": "KOSPI",
     "EntryDate": "2018-05-02",
     "ExitDate": "2018-05-03",
@@ -309,6 +331,7 @@
   },
   {
     "Code": "081660",
+    "Name": "휠라코리아",
     "Market": "KOSPI",
     "EntryDate": "2018-02-26",
     "ExitDate": "2018-05-09",
@@ -323,6 +346,7 @@
   },
   {
     "Code": "226320",
+    "Name": "잇츠한불",
     "Market": "KOSPI",
     "EntryDate": "2018-01-17",
     "ExitDate": "2018-05-11",
@@ -337,6 +361,7 @@
   },
   {
     "Code": "000720",
+    "Name": "현대건설",
     "Market": "KOSPI",
     "EntryDate": "2018-04-30",
     "ExitDate": "2018-05-25",
@@ -351,6 +376,7 @@
   },
   {
     "Code": "003410",
+    "Name": "쌍용양회",
     "Market": "KOSPI",
     "EntryDate": "2018-04-30",
     "ExitDate": "2018-05-25",
@@ -365,6 +391,7 @@
   },
   {
     "Code": "064350",
+    "Name": "현대로템",
     "Market": "KOSPI",
     "EntryDate": "2018-04-30",
     "ExitDate": "2018-05-25",
@@ -379,6 +406,7 @@
   },
   {
     "Code": "151910",
+    "Name": "나노스",
     "Market": "KOSDAQ",
     "EntryDate": "2018-04-20",
     "ExitDate": "2018-06-08",
@@ -393,6 +421,7 @@
   },
   {
     "Code": "003230",
+    "Name": "삼양식품",
     "Market": "KOSPI",
     "EntryDate": "2018-06-01",
     "ExitDate": "2018-06-12",
@@ -407,6 +436,7 @@
   },
   {
     "Code": "089590",
+    "Name": "제주항공",
     "Market": "KOSPI",
     "EntryDate": "2018-03-30",
     "ExitDate": "2018-06-21",
@@ -421,6 +451,7 @@
   },
   {
     "Code": "192820",
+    "Name": "코스맥스",
     "Market": "KOSPI",
     "EntryDate": "2018-05-11",
     "ExitDate": "2018-06-25",
@@ -435,6 +466,7 @@
   },
   {
     "Code": "081660",
+    "Name": "휠라코리아",
     "Market": "KOSPI",
     "EntryDate": "2018-05-11",
     "ExitDate": "2018-07-06",
@@ -449,6 +481,7 @@
   },
   {
     "Code": "145720",
+    "Name": "덴티움",
     "Market": "KOSPI",
     "EntryDate": "2018-05-11",
     "ExitDate": "2018-10-15",
@@ -463,6 +496,7 @@
   },
   {
     "Code": "000060",
+    "Name": "메리츠화재",
     "Market": "KOSPI",
     "EntryDate": "2019-04-01",
     "ExitDate": "2019-04-10",
@@ -477,6 +511,7 @@
   },
   {
     "Code": "020560",
+    "Name": "아시아나항공",
     "Market": "KOSPI",
     "EntryDate": "2019-04-12",
     "ExitDate": "2019-05-07",
@@ -491,6 +526,7 @@
   },
   {
     "Code": "180640",
+    "Name": "한진칼",
     "Market": "KOSPI",
     "EntryDate": "2019-04-10",
     "ExitDate": "2019-05-08",
@@ -505,6 +541,7 @@
   },
   {
     "Code": "108320",
+    "Name": "실리콘웍스",
     "Market": "KOSDAQ",
     "EntryDate": "2019-04-11",
     "ExitDate": "2019-05-09",
@@ -519,6 +556,7 @@
   },
   {
     "Code": "005300",
+    "Name": "롯데칠성",
     "Market": "KOSPI",
     "EntryDate": "2019-03-12",
     "ExitDate": "2019-05-10",
@@ -533,6 +571,7 @@
   },
   {
     "Code": "008560",
+    "Name": "메리츠종금증권",
     "Market": "KOSPI",
     "EntryDate": "2019-04-01",
     "ExitDate": "2019-05-23",
@@ -547,6 +586,7 @@
   },
   {
     "Code": "214150",
+    "Name": "클래시스",
     "Market": "KOSDAQ",
     "EntryDate": "2019-05-15",
     "ExitDate": "2019-06-12",
@@ -561,6 +601,7 @@
   },
   {
     "Code": "091700",
+    "Name": "파트론",
     "Market": "KOSDAQ",
     "EntryDate": "2019-03-27",
     "ExitDate": "2019-06-17",
@@ -575,6 +616,7 @@
   },
   {
     "Code": "000270",
+    "Name": "기아차",
     "Market": "KOSPI",
     "EntryDate": "2019-09-23",
     "ExitDate": "2019-10-07",
@@ -589,6 +631,7 @@
   },
   {
     "Code": "090460",
+    "Name": "비에이치",
     "Market": "KOSDAQ",
     "EntryDate": "2019-10-22",
     "ExitDate": "2019-11-06",
@@ -603,6 +646,7 @@
   },
   {
     "Code": "002790",
+    "Name": "아모레G",
     "Market": "KOSPI",
     "EntryDate": "2019-10-30",
     "ExitDate": "2019-11-19",
@@ -617,6 +661,7 @@
   },
   {
     "Code": "035420",
+    "Name": "NAVER",
     "Market": "KOSPI",
     "EntryDate": "2019-11-14",
     "ExitDate": "2019-11-22",
@@ -631,6 +676,7 @@
   },
   {
     "Code": "000080",
+    "Name": "하이트진로",
     "Market": "KOSPI",
     "EntryDate": "2019-11-15",
     "ExitDate": "2019-12-13",
@@ -645,6 +691,7 @@
   },
   {
     "Code": "115450",
+    "Name": "지트리비앤티",
     "Market": "KOSDAQ",
     "EntryDate": "2019-12-12",
     "ExitDate": "2019-12-16",
@@ -659,6 +706,7 @@
   },
   {
     "Code": "036490",
+    "Name": "SK머티리얼즈",
     "Market": "KOSDAQ",
     "EntryDate": "2019-12-17",
     "ExitDate": "2020-01-06",
@@ -673,6 +721,7 @@
   },
   {
     "Code": "170900",
+    "Name": "동아에스티",
     "Market": "KOSPI",
     "EntryDate": "2019-12-12",
     "ExitDate": "2020-01-15",
@@ -687,6 +736,7 @@
   },
   {
     "Code": "007700",
+    "Name": "F&F",
     "Market": "KOSPI",
     "EntryDate": "2019-11-06",
     "ExitDate": "2020-01-28",
@@ -701,6 +751,7 @@
   },
   {
     "Code": "000990",
+    "Name": "DB하이텍",
     "Market": "KOSPI",
     "EntryDate": "2019-12-17",
     "ExitDate": "2020-01-28",
@@ -715,6 +766,7 @@
   },
   {
     "Code": "014680",
+    "Name": "한솔케미칼",
     "Market": "KOSPI",
     "EntryDate": "2019-10-22",
     "ExitDate": "2020-01-31",
@@ -729,6 +781,7 @@
   },
   {
     "Code": "000080",
+    "Name": "하이트진로",
     "Market": "KOSPI",
     "EntryDate": "2020-01-15",
     "ExitDate": "2020-02-03",
@@ -743,6 +796,7 @@
   },
   {
     "Code": "003230",
+    "Name": "삼양식품",
     "Market": "KOSPI",
     "EntryDate": "2020-01-07",
     "ExitDate": "2020-02-21",
@@ -757,6 +811,7 @@
   },
   {
     "Code": "241590",
+    "Name": "화승엔터프라이즈",
     "Market": "KOSPI",
     "EntryDate": "2020-02-19",
     "ExitDate": "2020-02-24",
@@ -771,6 +826,7 @@
   },
   {
     "Code": "097520",
+    "Name": "엠씨넥스",
     "Market": "KOSDAQ",
     "EntryDate": "2020-02-14",
     "ExitDate": "2020-02-27",
@@ -785,6 +841,7 @@
   },
   {
     "Code": "035720",
+    "Name": "카카오",
     "Market": "KOSPI",
     "EntryDate": "2019-10-23",
     "ExitDate": "2020-02-28",
@@ -799,6 +856,7 @@
   },
   {
     "Code": "196170",
+    "Name": "알테오젠",
     "Market": "KOSDAQ",
     "EntryDate": "2020-02-05",
     "ExitDate": "2020-02-28",
@@ -813,6 +871,7 @@
   },
   {
     "Code": "180640",
+    "Name": "한진칼",
     "Market": "KOSPI",
     "EntryDate": "2020-02-13",
     "ExitDate": "2020-03-11",
@@ -827,6 +886,7 @@
   },
   {
     "Code": "058470",
+    "Name": "리노공업",
     "Market": "KOSDAQ",
     "EntryDate": "2020-01-23",
     "ExitDate": "2020-03-17",
@@ -841,6 +901,7 @@
   },
   {
     "Code": "088980",
+    "Name": "맥쿼리인프라",
     "Market": "KOSPI",
     "EntryDate": "2019-03-26",
     "ExitDate": "2020-03-19",
@@ -855,6 +916,7 @@
   },
   {
     "Code": "096530",
+    "Name": "씨젠",
     "Market": "KOSDAQ",
     "EntryDate": "2020-03-06",
     "ExitDate": "2020-04-13",
@@ -869,6 +931,7 @@
   },
   {
     "Code": "200130",
+    "Name": "콜마비앤에이치",
     "Market": "KOSDAQ",
     "EntryDate": "2020-05-08",
     "ExitDate": "2020-05-13",
@@ -883,6 +946,7 @@
   },
   {
     "Code": "096530",
+    "Name": "씨젠",
     "Market": "KOSDAQ",
     "EntryDate": "2020-05-14",
     "ExitDate": "2020-05-15",
@@ -897,6 +961,7 @@
   },
   {
     "Code": "196170",
+    "Name": "알테오젠",
     "Market": "KOSDAQ",
     "EntryDate": "2020-05-04",
     "ExitDate": "2020-06-03",
@@ -911,6 +976,7 @@
   },
   {
     "Code": "012510",
+    "Name": "더존비즈온",
     "Market": "KOSPI",
     "EntryDate": "2020-05-29",
     "ExitDate": "2020-06-04",
@@ -925,6 +991,7 @@
   },
   {
     "Code": "085660",
+    "Name": "차바이오텍",
     "Market": "KOSDAQ",
     "EntryDate": "2020-05-06",
     "ExitDate": "2020-06-15",
@@ -939,6 +1006,7 @@
   },
   {
     "Code": "247540",
+    "Name": "에코프로비엠",
     "Market": "KOSDAQ",
     "EntryDate": "2020-05-18",
     "ExitDate": "2020-06-15",
@@ -953,6 +1021,7 @@
   },
   {
     "Code": "086520",
+    "Name": "에코프로",
     "Market": "KOSDAQ",
     "EntryDate": "2020-06-04",
     "ExitDate": "2020-06-15",
@@ -967,6 +1036,7 @@
   },
   {
     "Code": "011200",
+    "Name": "HMM",
     "Market": "KOSPI",
     "EntryDate": "2020-05-26",
     "ExitDate": "2020-06-17",
@@ -981,6 +1051,7 @@
   },
   {
     "Code": "185750",
+    "Name": "종근당",
     "Market": "KOSPI",
     "EntryDate": "2020-06-17",
     "ExitDate": "2020-06-18",
@@ -995,6 +1066,7 @@
   },
   {
     "Code": "042670",
+    "Name": "두산인프라코어",
     "Market": "KOSPI",
     "EntryDate": "2020-06-16",
     "ExitDate": "2020-06-23",
@@ -1009,6 +1081,7 @@
   },
   {
     "Code": "007570",
+    "Name": "일양약품",
     "Market": "KOSPI",
     "EntryDate": "2020-05-28",
     "ExitDate": "2020-06-24",
@@ -1023,6 +1096,7 @@
   },
   {
     "Code": "003620",
+    "Name": "쌍용차",
     "Market": "KOSPI",
     "EntryDate": "2020-06-23",
     "ExitDate": "2020-06-24",
@@ -1037,6 +1111,7 @@
   },
   {
     "Code": "068760",
+    "Name": "셀트리온제약",
     "Market": "KOSDAQ",
     "EntryDate": "2020-06-01",
     "ExitDate": "2020-06-29",
@@ -1051,6 +1126,7 @@
   },
   {
     "Code": "112040",
+    "Name": "위메이드",
     "Market": "KOSDAQ",
     "EntryDate": "2020-06-26",
     "ExitDate": "2020-06-29",
@@ -1065,6 +1141,7 @@
   },
   {
     "Code": "003090",
+    "Name": "대웅",
     "Market": "KOSPI",
     "EntryDate": "2020-06-05",
     "ExitDate": "2020-06-30",
@@ -1079,6 +1156,7 @@
   },
   {
     "Code": "006120",
+    "Name": "SK디스커버리",
     "Market": "KOSPI",
     "EntryDate": "2020-07-01",
     "ExitDate": "2020-07-02",
@@ -1093,6 +1171,7 @@
   },
   {
     "Code": "237690",
+    "Name": "에스티팜",
     "Market": "KOSDAQ",
     "EntryDate": "2020-07-06",
     "ExitDate": "2020-07-10",
@@ -1107,6 +1186,7 @@
   },
   {
     "Code": "192650",
+    "Name": "드림텍",
     "Market": "KOSPI",
     "EntryDate": "2020-07-13",
     "ExitDate": "2020-07-14",
@@ -1121,6 +1201,7 @@
   },
   {
     "Code": "068270",
+    "Name": "셀트리온",
     "Market": "KOSPI",
     "EntryDate": "2020-06-04",
     "ExitDate": "2020-07-16",
@@ -1135,6 +1216,7 @@
   },
   {
     "Code": "026890",
+    "Name": "디피씨",
     "Market": "KOSPI",
     "EntryDate": "2020-07-14",
     "ExitDate": "2020-07-21",
@@ -1149,6 +1231,7 @@
   },
   {
     "Code": "000070",
+    "Name": "삼양홀딩스",
     "Market": "KOSPI",
     "EntryDate": "2020-07-21",
     "ExitDate": "2020-07-22",
@@ -1163,6 +1246,7 @@
   },
   {
     "Code": "086520",
+    "Name": "에코프로",
     "Market": "KOSDAQ",
     "EntryDate": "2020-07-22",
     "ExitDate": "2020-07-27",
@@ -1177,6 +1261,7 @@
   },
   {
     "Code": "009240",
+    "Name": "한샘",
     "Market": "KOSPI",
     "EntryDate": "2020-07-03",
     "ExitDate": "2020-07-29",
@@ -1191,6 +1276,7 @@
   },
   {
     "Code": "271980",
+    "Name": "제일약품",
     "Market": "KOSPI",
     "EntryDate": "2020-07-29",
     "ExitDate": "2020-07-30",
@@ -1205,6 +1291,7 @@
   },
   {
     "Code": "101490",
+    "Name": "에스앤에스텍",
     "Market": "KOSDAQ",
     "EntryDate": "2020-07-30",
     "ExitDate": "2020-07-31",
@@ -1219,6 +1306,7 @@
   },
   {
     "Code": "200130",
+    "Name": "콜마비앤에이치",
     "Market": "KOSDAQ",
     "EntryDate": "2020-05-26",
     "ExitDate": "2020-08-03",
@@ -1233,6 +1321,7 @@
   },
   {
     "Code": "192650",
+    "Name": "드림텍",
     "Market": "KOSPI",
     "EntryDate": "2020-08-03",
     "ExitDate": "2020-08-04",
@@ -1247,6 +1336,7 @@
   },
   {
     "Code": "253840",
+    "Name": "수젠텍",
     "Market": "KOSDAQ",
     "EntryDate": "2020-07-31",
     "ExitDate": "2020-08-11",
@@ -1261,6 +1351,7 @@
   },
   {
     "Code": "183490",
+    "Name": "엔지켐생명과학",
     "Market": "KOSDAQ",
     "EntryDate": "2020-07-27",
     "ExitDate": "2020-08-18",
@@ -1275,6 +1366,7 @@
   },
   {
     "Code": "226320",
+    "Name": "잇츠한불",
     "Market": "KOSPI",
     "EntryDate": "2020-08-14",
     "ExitDate": "2020-08-18",
@@ -1289,6 +1381,7 @@
   },
   {
     "Code": "069080",
+    "Name": "웹젠",
     "Market": "KOSDAQ",
     "EntryDate": "2020-07-01",
     "ExitDate": "2020-08-20",
@@ -1303,6 +1396,7 @@
   },
   {
     "Code": "051915",
+    "Name": "LG화학우",
     "Market": "KOSPI",
     "EntryDate": "2020-08-05",
     "ExitDate": "2020-08-20",
@@ -1317,6 +1411,7 @@
   },
   {
     "Code": "268600",
+    "Name": "셀리버리",
     "Market": "KOSDAQ",
     "EntryDate": "2020-08-19",
     "ExitDate": "2020-08-21",
@@ -1331,6 +1426,7 @@
   },
   {
     "Code": "033270",
+    "Name": "유나이티드제약",
     "Market": "KOSPI",
     "EntryDate": "2020-08-24",
     "ExitDate": "2020-08-25",
@@ -1345,6 +1441,7 @@
   },
   {
     "Code": "006280",
+    "Name": "녹십자",
     "Market": "KOSPI",
     "EntryDate": "2020-07-10",
     "ExitDate": "2020-08-27",
@@ -1359,6 +1456,7 @@
   },
   {
     "Code": "131370",
+    "Name": "알서포트",
     "Market": "KOSDAQ",
     "EntryDate": "2020-08-27",
     "ExitDate": "2020-08-28",
@@ -1373,6 +1471,7 @@
   },
   {
     "Code": "003670",
+    "Name": "포스코케미칼",
     "Market": "KOSPI",
     "EntryDate": "2020-06-16",
     "ExitDate": "2020-08-31",
@@ -1387,6 +1486,7 @@
   },
   {
     "Code": "122870",
+    "Name": "와이지엔터테인먼트",
     "Market": "KOSDAQ",
     "EntryDate": "2020-07-02",
     "ExitDate": "2020-08-31",
@@ -1401,6 +1501,7 @@
   },
   {
     "Code": "185750",
+    "Name": "종근당",
     "Market": "KOSPI",
     "EntryDate": "2020-08-04",
     "ExitDate": "2020-09-02",
@@ -1415,6 +1516,7 @@
   },
   {
     "Code": "285130",
+    "Name": "SK케미칼",
     "Market": "KOSPI",
     "EntryDate": "2020-06-25",
     "ExitDate": "2020-09-04",
@@ -1429,6 +1531,7 @@
   },
   {
     "Code": "093370",
+    "Name": "후성",
     "Market": "KOSPI",
     "EntryDate": "2020-09-04",
     "ExitDate": "2020-09-10",
@@ -1443,6 +1546,7 @@
   },
   {
     "Code": "034020",
+    "Name": "두산중공업",
     "Market": "KOSPI",
     "EntryDate": "2020-08-28",
     "ExitDate": "2020-09-21",
@@ -1457,6 +1561,7 @@
   },
   {
     "Code": "196170",
+    "Name": "알테오젠",
     "Market": "KOSDAQ",
     "EntryDate": "2020-08-31",
     "ExitDate": "2020-09-21",
@@ -1471,6 +1576,7 @@
   },
   {
     "Code": "210980",
+    "Name": "SK디앤디",
     "Market": "KOSPI",
     "EntryDate": "2020-09-04",
     "ExitDate": "2020-09-21",
@@ -1485,6 +1591,7 @@
   },
   {
     "Code": "053030",
+    "Name": "바이넥스",
     "Market": "KOSDAQ",
     "EntryDate": "2020-08-25",
     "ExitDate": "2020-09-22",
@@ -1499,6 +1606,7 @@
   },
   {
     "Code": "278280",
+    "Name": "천보",
     "Market": "KOSDAQ",
     "EntryDate": "2020-08-21",
     "ExitDate": "2020-09-24",
@@ -1513,6 +1621,7 @@
   },
   {
     "Code": "097230",
+    "Name": "한진중공업",
     "Market": "KOSPI",
     "EntryDate": "2020-09-11",
     "ExitDate": "2020-09-28",
@@ -1527,6 +1636,7 @@
   },
   {
     "Code": "011000",
+    "Name": "진원생명과학",
     "Market": "KOSPI",
     "EntryDate": "2020-08-24",
     "ExitDate": "2020-09-29",
@@ -1541,6 +1651,7 @@
   },
   {
     "Code": "290650",
+    "Name": "엘앤씨바이오",
     "Market": "KOSDAQ",
     "EntryDate": "2020-10-06",
     "ExitDate": "2020-10-08",
@@ -1555,6 +1666,7 @@
   },
   {
     "Code": "251270",
+    "Name": "넷마블",
     "Market": "KOSPI",
     "EntryDate": "2020-08-31",
     "ExitDate": "2020-10-12",
@@ -1569,6 +1681,7 @@
   },
   {
     "Code": "145020",
+    "Name": "휴젤",
     "Market": "KOSDAQ",
     "EntryDate": "2020-10-22",
     "ExitDate": "2020-10-23",
@@ -1583,6 +1696,7 @@
   },
   {
     "Code": "086280",
+    "Name": "현대글로비스",
     "Market": "KOSPI",
     "EntryDate": "2020-10-13",
     "ExitDate": "2020-10-30",
@@ -1597,6 +1711,7 @@
   },
   {
     "Code": "011930",
+    "Name": "신성이엔지",
     "Market": "KOSPI",
     "EntryDate": "2020-11-09",
     "ExitDate": "2020-11-11",
@@ -1611,6 +1726,7 @@
   },
   {
     "Code": "069260",
+    "Name": "휴켐스",
     "Market": "KOSPI",
     "EntryDate": "2020-11-09",
     "ExitDate": "2020-11-12",
@@ -1625,6 +1741,7 @@
   },
   {
     "Code": "005880",
+    "Name": "대한해운",
     "Market": "KOSPI",
     "EntryDate": "2020-11-12",
     "ExitDate": "2020-11-13",
@@ -1639,6 +1756,7 @@
   },
   {
     "Code": "003490",
+    "Name": "대한항공",
     "Market": "KOSPI",
     "EntryDate": "2020-11-11",
     "ExitDate": "2020-11-18",
@@ -1653,6 +1771,7 @@
   },
   {
     "Code": "006280",
+    "Name": "녹십자",
     "Market": "KOSPI",
     "EntryDate": "2020-11-03",
     "ExitDate": "2020-11-25",
@@ -1667,6 +1786,7 @@
   },
   {
     "Code": "005250",
+    "Name": "녹십자홀딩스",
     "Market": "KOSPI",
     "EntryDate": "2020-11-04",
     "ExitDate": "2020-11-30",
@@ -1681,6 +1801,7 @@
   },
   {
     "Code": "011200",
+    "Name": "HMM",
     "Market": "KOSPI",
     "EntryDate": "2020-10-23",
     "ExitDate": "2020-12-04",
@@ -1695,6 +1816,7 @@
   },
   {
     "Code": "271980",
+    "Name": "제일약품",
     "Market": "KOSPI",
     "EntryDate": "2020-11-06",
     "ExitDate": "2020-12-04",
@@ -1709,6 +1831,7 @@
   },
   {
     "Code": "226950",
+    "Name": "올릭스",
     "Market": "KOSDAQ",
     "EntryDate": "2020-11-26",
     "ExitDate": "2020-12-04",
@@ -1723,6 +1846,7 @@
   },
   {
     "Code": "035900",
+    "Name": "JYP Ent.",
     "Market": "KOSDAQ",
     "EntryDate": "2020-12-03",
     "ExitDate": "2020-12-07",
@@ -1737,6 +1861,7 @@
   },
   {
     "Code": "039200",
+    "Name": "오스코텍",
     "Market": "KOSDAQ",
     "EntryDate": "2020-11-04",
     "ExitDate": "2020-12-11",
@@ -1751,6 +1876,7 @@
   },
   {
     "Code": "008930",
+    "Name": "한미사이언스",
     "Market": "KOSPI",
     "EntryDate": "2020-12-04",
     "ExitDate": "2020-12-15",
@@ -1765,6 +1891,7 @@
   },
   {
     "Code": "000270",
+    "Name": "기아차",
     "Market": "KOSPI",
     "EntryDate": "2020-10-27",
     "ExitDate": "2020-12-21",
@@ -1779,6 +1906,7 @@
   },
   {
     "Code": "204320",
+    "Name": "만도",
     "Market": "KOSPI",
     "EntryDate": "2020-11-13",
     "ExitDate": "2020-12-21",
@@ -1793,6 +1921,7 @@
   },
   {
     "Code": "100090",
+    "Name": "삼강엠앤티",
     "Market": "KOSDAQ",
     "EntryDate": "2020-12-16",
     "ExitDate": "2020-12-21",
@@ -1807,6 +1936,7 @@
   },
   {
     "Code": "000250",
+    "Name": "삼천당제약",
     "Market": "KOSDAQ",
     "EntryDate": "2020-12-21",
     "ExitDate": "2020-12-22",
@@ -1821,6 +1951,7 @@
   },
   {
     "Code": "001440",
+    "Name": "대한전선",
     "Market": "KOSPI",
     "EntryDate": "2020-11-20",
     "ExitDate": "2020-12-23",
@@ -1835,6 +1966,7 @@
   },
   {
     "Code": "237690",
+    "Name": "에스티팜",
     "Market": "KOSDAQ",
     "EntryDate": "2020-12-04",
     "ExitDate": "2020-12-23",
@@ -1849,6 +1981,7 @@
   },
   {
     "Code": "088350",
+    "Name": "한화생명",
     "Market": "KOSPI",
     "EntryDate": "2021-01-07",
     "ExitDate": "2021-01-08",
@@ -1863,6 +1996,7 @@
   },
   {
     "Code": "112610",
+    "Name": "씨에스윈드",
     "Market": "KOSPI",
     "EntryDate": "2020-12-09",
     "ExitDate": "2021-01-12",
@@ -1877,6 +2011,7 @@
   },
   {
     "Code": "003850",
+    "Name": "보령제약",
     "Market": "KOSPI",
     "EntryDate": "2021-01-11",
     "ExitDate": "2021-01-12",
@@ -1891,6 +2026,7 @@
   },
   {
     "Code": "011170",
+    "Name": "롯데케미칼",
     "Market": "KOSPI",
     "EntryDate": "2021-01-12",
     "ExitDate": "2021-01-18",
@@ -1905,6 +2041,7 @@
   },
   {
     "Code": "272210",
+    "Name": "한화시스템",
     "Market": "KOSPI",
     "EntryDate": "2020-12-15",
     "ExitDate": "2021-01-26",
@@ -1919,6 +2056,7 @@
   },
   {
     "Code": "066970",
+    "Name": "엘앤에프",
     "Market": "KOSDAQ",
     "EntryDate": "2020-11-27",
     "ExitDate": "2021-01-28",
@@ -1933,6 +2071,7 @@
   },
   {
     "Code": "010060",
+    "Name": "OCI",
     "Market": "KOSPI",
     "EntryDate": "2020-12-21",
     "ExitDate": "2021-01-28",
@@ -1947,6 +2086,7 @@
   },
   {
     "Code": "066570",
+    "Name": "LG전자",
     "Market": "KOSPI",
     "EntryDate": "2020-12-23",
     "ExitDate": "2021-01-29",
@@ -1961,6 +2101,7 @@
   },
   {
     "Code": "011780",
+    "Name": "금호석유",
     "Market": "KOSPI",
     "EntryDate": "2021-01-28",
     "ExitDate": "2021-01-29",
@@ -1975,6 +2116,7 @@
   },
   {
     "Code": "048260",
+    "Name": "오스템임플란트",
     "Market": "KOSDAQ",
     "EntryDate": "2021-01-28",
     "ExitDate": "2021-01-29",
@@ -1989,6 +2131,7 @@
   },
   {
     "Code": "003670",
+    "Name": "포스코케미칼",
     "Market": "KOSPI",
     "EntryDate": "2020-12-09",
     "ExitDate": "2021-02-01",
@@ -2003,6 +2146,7 @@
   },
   {
     "Code": "004490",
+    "Name": "세방전지",
     "Market": "KOSPI",
     "EntryDate": "2020-12-23",
     "ExitDate": "2021-02-08",
@@ -2017,6 +2161,7 @@
   },
   {
     "Code": "298040",
+    "Name": "효성중공업",
     "Market": "KOSPI",
     "EntryDate": "2021-02-04",
     "ExitDate": "2021-02-17",
@@ -2031,6 +2176,7 @@
   },
   {
     "Code": "066575",
+    "Name": "LG전자우",
     "Market": "KOSPI",
     "EntryDate": "2020-12-23",
     "ExitDate": "2021-02-18",
@@ -2045,6 +2191,7 @@
   },
   {
     "Code": "047810",
+    "Name": "한국항공우주",
     "Market": "KOSPI",
     "EntryDate": "2021-02-04",
     "ExitDate": "2021-02-19",
@@ -2059,6 +2206,7 @@
   },
   {
     "Code": "166090",
+    "Name": "하나머티리얼즈",
     "Market": "KOSDAQ",
     "EntryDate": "2021-02-19",
     "ExitDate": "2021-02-23",
@@ -2073,6 +2221,7 @@
   },
   {
     "Code": "048410",
+    "Name": "현대바이오",
     "Market": "KOSDAQ",
     "EntryDate": "2021-02-23",
     "ExitDate": "2021-02-24",
@@ -2087,6 +2236,7 @@
   },
   {
     "Code": "139670",
+    "Name": "키네마스터",
     "Market": "KOSDAQ",
     "EntryDate": "2021-02-25",
     "ExitDate": "2021-03-03",
@@ -2101,6 +2251,7 @@
   },
   {
     "Code": "103140",
+    "Name": "풍산",
     "Market": "KOSPI",
     "EntryDate": "2021-02-22",
     "ExitDate": "2021-03-05",
@@ -2115,6 +2266,7 @@
   },
   {
     "Code": "022100",
+    "Name": "포스코 ICT",
     "Market": "KOSDAQ",
     "EntryDate": "2020-12-29",
     "ExitDate": "2021-03-10",
@@ -2129,6 +2281,7 @@
   },
   {
     "Code": "268280",
+    "Name": "미원에스씨",
     "Market": "KOSPI",
     "EntryDate": "2021-03-16",
     "ExitDate": "2021-03-17",
@@ -2143,6 +2296,7 @@
   },
   {
     "Code": "267270",
+    "Name": "현대건설기계",
     "Market": "KOSPI",
     "EntryDate": "2021-03-09",
     "ExitDate": "2021-04-13",
@@ -2157,6 +2311,7 @@
   },
   {
     "Code": "298050",
+    "Name": "효성첨단소재",
     "Market": "KOSPI",
     "EntryDate": "2021-02-01",
     "ExitDate": "2021-04-14",
@@ -2171,6 +2326,7 @@
   },
   {
     "Code": "120110",
+    "Name": "코오롱인더",
     "Market": "KOSPI",
     "EntryDate": "2021-02-03",
     "ExitDate": "2021-04-28",
@@ -2185,6 +2341,7 @@
   },
   {
     "Code": "194480",
+    "Name": "데브시스터즈",
     "Market": "KOSDAQ",
     "EntryDate": "2021-03-17",
     "ExitDate": "2021-04-28",
@@ -2199,6 +2356,7 @@
   },
   {
     "Code": "002350",
+    "Name": "넥센타이어",
     "Market": "KOSPI",
     "EntryDate": "2021-04-26",
     "ExitDate": "2021-05-03",
@@ -2213,6 +2371,7 @@
   },
   {
     "Code": "052690",
+    "Name": "한전기술",
     "Market": "KOSPI",
     "EntryDate": "2021-04-14",
     "ExitDate": "2021-05-04",
@@ -2227,6 +2386,7 @@
   },
   {
     "Code": "025900",
+    "Name": "동화기업",
     "Market": "KOSDAQ",
     "EntryDate": "2021-04-14",
     "ExitDate": "2021-05-10",
@@ -2241,6 +2401,7 @@
   },
   {
     "Code": "011780",
+    "Name": "금호석유",
     "Market": "KOSPI",
     "EntryDate": "2021-05-06",
     "ExitDate": "2021-05-10",
@@ -2255,6 +2416,7 @@
   },
   {
     "Code": "003380",
+    "Name": "하림지주",
     "Market": "KOSDAQ",
     "EntryDate": "2021-05-10",
     "ExitDate": "2021-05-21",
@@ -2269,6 +2431,7 @@
   },
   {
     "Code": "084110",
+    "Name": "휴온스글로벌",
     "Market": "KOSDAQ",
     "EntryDate": "2021-04-28",
     "ExitDate": "2021-06-01",
@@ -2283,6 +2446,7 @@
   },
   {
     "Code": "011200",
+    "Name": "HMM",
     "Market": "KOSPI",
     "EntryDate": "2021-02-22",
     "ExitDate": "2021-06-04",
@@ -2297,6 +2461,7 @@
   },
   {
     "Code": "034020",
+    "Name": "두산중공업",
     "Market": "KOSPI",
     "EntryDate": "2021-06-07",
     "ExitDate": "2021-06-08",
@@ -2311,6 +2476,7 @@
   },
   {
     "Code": "139130",
+    "Name": "DGB금융지주",
     "Market": "KOSPI",
     "EntryDate": "2021-03-08",
     "ExitDate": "2021-06-09",
@@ -2325,6 +2491,7 @@
   },
   {
     "Code": "012450",
+    "Name": "한화에어로스페이스",
     "Market": "KOSPI",
     "EntryDate": "2021-01-18",
     "ExitDate": "2021-06-17",
@@ -2339,6 +2506,7 @@
   },
   {
     "Code": "005300",
+    "Name": "롯데칠성",
     "Market": "KOSPI",
     "EntryDate": "2021-05-11",
     "ExitDate": "2021-06-18",
@@ -2353,6 +2521,7 @@
   },
   {
     "Code": "052690",
+    "Name": "한전기술",
     "Market": "KOSPI",
     "EntryDate": "2021-05-26",
     "ExitDate": "2021-06-21",
@@ -2367,6 +2536,7 @@
   },
   {
     "Code": "090435",
+    "Name": "아모레퍼시픽우",
     "Market": "KOSPI",
     "EntryDate": "2021-05-10",
     "ExitDate": "2021-06-23",
@@ -2381,6 +2551,7 @@
   },
   {
     "Code": "011000",
+    "Name": "진원생명과학",
     "Market": "KOSPI",
     "EntryDate": "2021-06-23",
     "ExitDate": "2021-06-24",
@@ -2395,6 +2566,7 @@
   },
   {
     "Code": "001440",
+    "Name": "대한전선",
     "Market": "KOSPI",
     "EntryDate": "2021-06-04",
     "ExitDate": "2021-06-28",
@@ -2409,6 +2581,7 @@
   },
   {
     "Code": "069960",
+    "Name": "현대백화점",
     "Market": "KOSPI",
     "EntryDate": "2021-03-03",
     "ExitDate": "2021-07-09",
@@ -2423,6 +2596,7 @@
   },
   {
     "Code": "003540",
+    "Name": "대신증권",
     "Market": "KOSPI",
     "EntryDate": "2021-06-28",
     "ExitDate": "2021-07-09",
@@ -2437,6 +2611,7 @@
   },
   {
     "Code": "299660",
+    "Name": "셀리드",
     "Market": "KOSDAQ",
     "EntryDate": "2021-06-08",
     "ExitDate": "2021-07-14",
@@ -2451,6 +2626,7 @@
   },
   {
     "Code": "025900",
+    "Name": "동화기업",
     "Market": "KOSDAQ",
     "EntryDate": "2021-07-13",
     "ExitDate": "2021-07-20",
@@ -2465,6 +2641,7 @@
   },
   {
     "Code": "005070",
+    "Name": "코스모신소재",
     "Market": "KOSPI",
     "EntryDate": "2021-07-19",
     "ExitDate": "2021-07-20",
@@ -2479,6 +2656,7 @@
   },
   {
     "Code": "102460",
+    "Name": "이연제약",
     "Market": "KOSPI",
     "EntryDate": "2021-07-02",
     "ExitDate": "2021-07-22",
@@ -2493,6 +2671,7 @@
   },
   {
     "Code": "003580",
+    "Name": "넥스트사이언스",
     "Market": "KOSPI",
     "EntryDate": "2021-07-21",
     "ExitDate": "2021-07-22",
@@ -2507,6 +2686,7 @@
   },
   {
     "Code": "052690",
+    "Name": "한전기술",
     "Market": "KOSPI",
     "EntryDate": "2021-07-20",
     "ExitDate": "2021-07-23",
@@ -2521,6 +2701,7 @@
   },
   {
     "Code": "007390",
+    "Name": "네이처셀",
     "Market": "KOSDAQ",
     "EntryDate": "2021-06-18",
     "ExitDate": "2021-07-27",
@@ -2535,6 +2716,7 @@
   },
   {
     "Code": "005090",
+    "Name": "SGC에너지",
     "Market": "KOSPI",
     "EntryDate": "2021-07-27",
     "ExitDate": "2021-07-30",
@@ -2549,6 +2731,7 @@
   },
   {
     "Code": "042670",
+    "Name": "두산인프라코어",
     "Market": "KOSPI",
     "EntryDate": "2021-06-02",
     "ExitDate": "2021-08-03",
@@ -2563,6 +2746,7 @@
   },
   {
     "Code": "035080",
+    "Name": "인터파크",
     "Market": "KOSDAQ",
     "EntryDate": "2021-07-14",
     "ExitDate": "2021-08-10",
@@ -2577,6 +2761,7 @@
   },
   {
     "Code": "004800",
+    "Name": "효성",
     "Market": "KOSPI",
     "EntryDate": "2021-07-14",
     "ExitDate": "2021-08-11",
@@ -2591,6 +2776,7 @@
   },
   {
     "Code": "344820",
+    "Name": "KCC글라스",
     "Market": "KOSPI",
     "EntryDate": "2021-07-30",
     "ExitDate": "2021-08-11",
@@ -2605,6 +2791,7 @@
   },
   {
     "Code": "166090",
+    "Name": "하나머티리얼즈",
     "Market": "KOSDAQ",
     "EntryDate": "2021-07-22",
     "ExitDate": "2021-08-13",
@@ -2619,6 +2806,7 @@
   },
   {
     "Code": "025900",
+    "Name": "동화기업",
     "Market": "KOSDAQ",
     "EntryDate": "2021-08-12",
     "ExitDate": "2021-08-17",
@@ -2633,6 +2821,7 @@
   },
   {
     "Code": "293780",
+    "Name": "압타바이오",
     "Market": "KOSDAQ",
     "EntryDate": "2021-08-12",
     "ExitDate": "2021-08-18",
@@ -2647,6 +2836,7 @@
   },
   {
     "Code": "034120",
+    "Name": "SBS",
     "Market": "KOSPI",
     "EntryDate": "2021-08-13",
     "ExitDate": "2021-08-18",
@@ -2661,6 +2851,7 @@
   },
   {
     "Code": "012450",
+    "Name": "한화에어로스페이스",
     "Market": "KOSPI",
     "EntryDate": "2021-07-05",
     "ExitDate": "2021-08-19",
@@ -2675,6 +2866,7 @@
   },
   {
     "Code": "014830",
+    "Name": "유니드",
     "Market": "KOSPI",
     "EntryDate": "2021-07-23",
     "ExitDate": "2021-08-20",
@@ -2689,6 +2881,7 @@
   },
   {
     "Code": "122870",
+    "Name": "와이지엔터테인먼트",
     "Market": "KOSDAQ",
     "EntryDate": "2021-08-12",
     "ExitDate": "2021-08-20",
@@ -2703,6 +2896,7 @@
   },
   {
     "Code": "183300",
+    "Name": "코미코",
     "Market": "KOSDAQ",
     "EntryDate": "2021-08-18",
     "ExitDate": "2021-08-20",
@@ -2717,6 +2911,7 @@
   },
   {
     "Code": "112040",
+    "Name": "위메이드",
     "Market": "KOSDAQ",
     "EntryDate": "2021-08-17",
     "ExitDate": "2021-08-26",
@@ -2731,6 +2926,7 @@
   },
   {
     "Code": "048260",
+    "Name": "오스템임플란트",
     "Market": "KOSDAQ",
     "EntryDate": "2021-06-10",
     "ExitDate": "2021-09-08",
@@ -2745,6 +2941,7 @@
   },
   {
     "Code": "145720",
+    "Name": "덴티움",
     "Market": "KOSPI",
     "EntryDate": "2021-07-26",
     "ExitDate": "2021-09-08",
@@ -2759,6 +2956,7 @@
   },
   {
     "Code": "064550",
+    "Name": "바이오니아",
     "Market": "KOSDAQ",
     "EntryDate": "2021-08-23",
     "ExitDate": "2021-09-09",
@@ -2773,6 +2971,7 @@
   },
   {
     "Code": "263750",
+    "Name": "펄어비스",
     "Market": "KOSDAQ",
     "EntryDate": "2021-08-26",
     "ExitDate": "2021-09-10",
@@ -2787,6 +2986,7 @@
   },
   {
     "Code": "222080",
+    "Name": "씨아이에스",
     "Market": "KOSDAQ",
     "EntryDate": "2021-09-17",
     "ExitDate": "2021-09-24",
@@ -2801,6 +3001,7 @@
   },
   {
     "Code": "003280",
+    "Name": "흥아해운",
     "Market": "KOSPI",
     "EntryDate": "2021-09-24",
     "ExitDate": "2021-09-27",
@@ -2815,6 +3016,7 @@
   },
   {
     "Code": "014830",
+    "Name": "유니드",
     "Market": "KOSPI",
     "EntryDate": "2021-08-24",
     "ExitDate": "2021-09-29",
@@ -2829,6 +3031,7 @@
   },
   {
     "Code": "007690",
+    "Name": "국도화학",
     "Market": "KOSPI",
     "EntryDate": "2021-09-08",
     "ExitDate": "2021-09-29",
@@ -2843,6 +3046,7 @@
   },
   {
     "Code": "298050",
+    "Name": "효성첨단소재",
     "Market": "KOSPI",
     "EntryDate": "2021-09-08",
     "ExitDate": "2021-10-05",
@@ -2857,6 +3061,7 @@
   },
   {
     "Code": "089980",
+    "Name": "상아프론테크",
     "Market": "KOSDAQ",
     "EntryDate": "2021-08-25",
     "ExitDate": "2021-10-06",
@@ -2871,6 +3076,7 @@
   },
   {
     "Code": "082640",
+    "Name": "동양생명",
     "Market": "KOSPI",
     "EntryDate": "2021-09-09",
     "ExitDate": "2021-10-14",
@@ -2885,6 +3091,7 @@
   },
   {
     "Code": "025900",
+    "Name": "동화기업",
     "Market": "KOSDAQ",
     "EntryDate": "2021-09-30",
     "ExitDate": "2021-10-28",
@@ -2899,6 +3106,7 @@
   },
   {
     "Code": "033290",
+    "Name": "코웰패션",
     "Market": "KOSDAQ",
     "EntryDate": "2021-10-19",
     "ExitDate": "2021-11-16",
@@ -2913,6 +3121,7 @@
   },
   {
     "Code": "067310",
+    "Name": "하나마이크론",
     "Market": "KOSDAQ",
     "EntryDate": "2021-10-28",
     "ExitDate": "2021-11-17",
@@ -2927,6 +3136,7 @@
   },
   {
     "Code": "100090",
+    "Name": "삼강엠앤티",
     "Market": "KOSDAQ",
     "EntryDate": "2021-11-16",
     "ExitDate": "2021-11-17",
@@ -2941,6 +3151,7 @@
   },
   {
     "Code": "112040",
+    "Name": "위메이드",
     "Market": "KOSDAQ",
     "EntryDate": "2021-08-30",
     "ExitDate": "2021-11-24",
@@ -2955,6 +3166,7 @@
   },
   {
     "Code": "035900",
+    "Name": "JYP Ent.",
     "Market": "KOSDAQ",
     "EntryDate": "2021-10-20",
     "ExitDate": "2021-12-01",
@@ -2969,6 +3181,7 @@
   },
   {
     "Code": "020150",
+    "Name": "일진머티리얼즈",
     "Market": "KOSPI",
     "EntryDate": "2021-09-27",
     "ExitDate": "2021-12-02",
@@ -2983,6 +3196,7 @@
   },
   {
     "Code": "272290",
+    "Name": "이녹스첨단소재",
     "Market": "KOSDAQ",
     "EntryDate": "2021-12-07",
     "ExitDate": "2021-12-09",
@@ -2997,6 +3211,7 @@
   },
   {
     "Code": "041140",
+    "Name": "넥슨지티",
     "Market": "KOSDAQ",
     "EntryDate": "2021-12-10",
     "ExitDate": "2021-12-16",
@@ -3011,6 +3226,7 @@
   },
   {
     "Code": "064260",
+    "Name": "다날",
     "Market": "KOSDAQ",
     "EntryDate": "2021-11-18",
     "ExitDate": "2021-12-17",
@@ -3025,6 +3241,7 @@
   },
   {
     "Code": "030520",
+    "Name": "한글과컴퓨터",
     "Market": "KOSDAQ",
     "EntryDate": "2021-11-17",
     "ExitDate": "2021-12-20",
@@ -3039,6 +3256,7 @@
   },
   {
     "Code": "041140",
+    "Name": "넥슨지티",
     "Market": "KOSDAQ",
     "EntryDate": "2021-12-17",
     "ExitDate": "2021-12-20",
@@ -3053,6 +3271,7 @@
   },
   {
     "Code": "005940",
+    "Name": "NH투자증권",
     "Market": "KOSPI",
     "EntryDate": "2021-12-28",
     "ExitDate": "2021-12-30",
@@ -3067,6 +3286,7 @@
   },
   {
     "Code": "247540",
+    "Name": "에코프로비엠",
     "Market": "KOSDAQ",
     "EntryDate": "2021-11-05",
     "ExitDate": "2022-01-06",
@@ -3081,6 +3301,7 @@
   },
   {
     "Code": "005290",
+    "Name": "동진쎄미켐",
     "Market": "KOSDAQ",
     "EntryDate": "2021-12-21",
     "ExitDate": "2022-01-11",
@@ -3095,6 +3316,7 @@
   },
   {
     "Code": "140410",
+    "Name": "메지온",
     "Market": "KOSDAQ",
     "EntryDate": "2021-12-29",
     "ExitDate": "2022-01-17",
@@ -3109,6 +3331,7 @@
   },
   {
     "Code": "053800",
+    "Name": "안랩",
     "Market": "KOSDAQ",
     "EntryDate": "2022-01-04",
     "ExitDate": "2022-01-17",
@@ -3123,6 +3346,7 @@
   },
   {
     "Code": "222800",
+    "Name": "심텍",
     "Market": "KOSDAQ",
     "EntryDate": "2021-12-23",
     "ExitDate": "2022-01-21",
@@ -3137,6 +3361,7 @@
   },
   {
     "Code": "000060",
+    "Name": "메리츠화재",
     "Market": "KOSPI",
     "EntryDate": "2021-09-01",
     "ExitDate": "2022-01-28",
@@ -3151,6 +3376,7 @@
   },
   {
     "Code": "112610",
+    "Name": "씨에스윈드",
     "Market": "KOSPI",
     "EntryDate": "2022-11-16",
     "ExitDate": "2022-12-08",
@@ -3165,6 +3391,7 @@
   },
   {
     "Code": "006040",
+    "Name": "동원산업",
     "Market": "KOSPI",
     "EntryDate": "2022-12-09",
     "ExitDate": "2022-12-14",
@@ -3179,6 +3406,7 @@
   },
   {
     "Code": "095660",
+    "Name": "네오위즈",
     "Market": "KOSDAQ",
     "EntryDate": "2023-01-25",
     "ExitDate": "2023-01-30",
@@ -3193,6 +3421,7 @@
   },
   {
     "Code": "175330",
+    "Name": "JB금융지주",
     "Market": "KOSPI",
     "EntryDate": "2023-01-27",
     "ExitDate": "2023-01-30",
@@ -3207,6 +3436,7 @@
   },
   {
     "Code": "267270",
+    "Name": "현대건설기계",
     "Market": "KOSPI",
     "EntryDate": "2022-11-18",
     "ExitDate": "2023-02-08",
@@ -3221,6 +3451,7 @@
   },
   {
     "Code": "055550",
+    "Name": "신한지주",
     "Market": "KOSPI",
     "EntryDate": "2023-01-16",
     "ExitDate": "2023-02-09",
@@ -3235,6 +3466,7 @@
   },
   {
     "Code": "114090",
+    "Name": "GKL",
     "Market": "KOSPI",
     "EntryDate": "2022-11-11",
     "ExitDate": "2023-02-21",
@@ -3249,6 +3481,7 @@
   },
   {
     "Code": "007070",
+    "Name": "GS리테일",
     "Market": "KOSPI",
     "EntryDate": "2023-02-08",
     "ExitDate": "2023-03-07",
@@ -3263,6 +3496,7 @@
   },
   {
     "Code": "006650",
+    "Name": "대한유화",
     "Market": "KOSPI",
     "EntryDate": "2023-02-21",
     "ExitDate": "2023-03-08",
@@ -3277,6 +3511,7 @@
   },
   {
     "Code": "101670",
+    "Name": "하이드로리튬",
     "Market": "KOSDAQ",
     "EntryDate": "2023-03-08",
     "ExitDate": "2023-03-09",
@@ -3291,6 +3526,7 @@
   },
   {
     "Code": "012510",
+    "Name": "더존비즈온",
     "Market": "KOSPI",
     "EntryDate": "2023-03-09",
     "ExitDate": "2023-03-10",
@@ -3305,6 +3541,7 @@
   },
   {
     "Code": "041510",
+    "Name": "에스엠",
     "Market": "KOSDAQ",
     "EntryDate": "2023-02-08",
     "ExitDate": "2023-03-13",
@@ -3319,6 +3556,7 @@
   },
   {
     "Code": "086900",
+    "Name": "메디톡스",
     "Market": "KOSDAQ",
     "EntryDate": "2023-02-10",
     "ExitDate": "2023-03-13",
@@ -3333,6 +3571,7 @@
   },
   {
     "Code": "008730",
+    "Name": "율촌화학",
     "Market": "KOSPI",
     "EntryDate": "2023-02-06",
     "ExitDate": "2023-03-14",
@@ -3347,6 +3586,7 @@
   },
   {
     "Code": "003670",
+    "Name": "포스코케미칼",
     "Market": "KOSPI",
     "EntryDate": "2023-03-07",
     "ExitDate": "2023-03-14",
@@ -3361,6 +3601,7 @@
   },
   {
     "Code": "383310",
+    "Name": "에코프로에이치엔",
     "Market": "KOSDAQ",
     "EntryDate": "2023-03-23",
     "ExitDate": "2023-03-27",
@@ -3375,6 +3616,7 @@
   },
   {
     "Code": "277810",
+    "Name": "레인보우로보틱스",
     "Market": "KOSDAQ",
     "EntryDate": "2023-03-16",
     "ExitDate": "2023-04-06",
@@ -3389,6 +3631,7 @@
   },
   {
     "Code": "006110",
+    "Name": "삼아알미늄",
     "Market": "KOSPI",
     "EntryDate": "2023-03-15",
     "ExitDate": "2023-04-13",
@@ -3403,6 +3646,7 @@
   },
   {
     "Code": "101490",
+    "Name": "에스앤에스텍",
     "Market": "KOSDAQ",
     "EntryDate": "2023-03-16",
     "ExitDate": "2023-04-20",
@@ -3417,6 +3661,7 @@
   },
   {
     "Code": "000250",
+    "Name": "삼천당제약",
     "Market": "KOSDAQ",
     "EntryDate": "2023-03-27",
     "ExitDate": "2023-04-20",
@@ -3431,6 +3676,7 @@
   },
   {
     "Code": "214370",
+    "Name": "케어젠",
     "Market": "KOSDAQ",
     "EntryDate": "2023-02-01",
     "ExitDate": "2023-04-21",
@@ -3445,6 +3691,7 @@
   },
   {
     "Code": "086520",
+    "Name": "에코프로",
     "Market": "KOSDAQ",
     "EntryDate": "2023-02-09",
     "ExitDate": "2023-04-24",
@@ -3459,6 +3706,7 @@
   },
   {
     "Code": "001390",
+    "Name": "KG케미칼",
     "Market": "KOSPI",
     "EntryDate": "2023-04-17",
     "ExitDate": "2023-04-27",
@@ -3473,6 +3721,7 @@
   },
   {
     "Code": "022100",
+    "Name": "포스코 ICT",
     "Market": "KOSDAQ",
     "EntryDate": "2023-04-13",
     "ExitDate": "2023-05-04",
@@ -3487,6 +3736,7 @@
   },
   {
     "Code": "267270",
+    "Name": "HD현대건설기계",
     "Market": "KOSPI",
     "EntryDate": "2023-04-27",
     "ExitDate": "2023-05-10",
@@ -3501,6 +3751,7 @@
   },
   {
     "Code": "281740",
+    "Name": "레이크머티리얼즈",
     "Market": "KOSDAQ",
     "EntryDate": "2023-04-11",
     "ExitDate": "2023-05-12",
@@ -3515,6 +3766,7 @@
   },
   {
     "Code": "073240",
+    "Name": "금호타이어",
     "Market": "KOSPI",
     "EntryDate": "2023-05-15",
     "ExitDate": "2023-05-16",
@@ -3529,6 +3781,7 @@
   },
   {
     "Code": "122870",
+    "Name": "와이지엔터테인먼트",
     "Market": "KOSDAQ",
     "EntryDate": "2023-05-12",
     "ExitDate": "2023-06-07",
@@ -3543,6 +3796,7 @@
   },
   {
     "Code": "017800",
+    "Name": "현대엘리베이",
     "Market": "KOSPI",
     "EntryDate": "2023-05-11",
     "ExitDate": "2023-06-27",
@@ -3557,6 +3811,7 @@
   },
   {
     "Code": "140860",
+    "Name": "파크시스템스",
     "Market": "KOSDAQ",
     "EntryDate": "2023-02-07",
     "ExitDate": "2023-07-06",
@@ -3571,6 +3826,7 @@
   },
   {
     "Code": "042700",
+    "Name": "한미반도체",
     "Market": "KOSPI",
     "EntryDate": "2023-03-24",
     "ExitDate": "2023-07-07",
@@ -3585,6 +3841,7 @@
   },
   {
     "Code": "241560",
+    "Name": "두산밥캣",
     "Market": "KOSPI",
     "EntryDate": "2023-04-27",
     "ExitDate": "2023-07-13",
@@ -3599,6 +3856,7 @@
   },
   {
     "Code": "105630",
+    "Name": "한세실업",
     "Market": "KOSPI",
     "EntryDate": "2023-06-27",
     "ExitDate": "2023-07-19",
@@ -3613,6 +3871,7 @@
   },
   {
     "Code": "035900",
+    "Name": "JYP Ent.",
     "Market": "KOSDAQ",
     "EntryDate": "2023-05-16",
     "ExitDate": "2023-07-26",
@@ -3627,6 +3886,7 @@
   },
   {
     "Code": "010120",
+    "Name": "LS ELECTRIC",
     "Market": "KOSPI",
     "EntryDate": "2023-07-25",
     "ExitDate": "2023-07-26",
@@ -3641,6 +3901,7 @@
   },
   {
     "Code": "042670",
+    "Name": "HD현대인프라코어",
     "Market": "KOSPI",
     "EntryDate": "2023-06-05",
     "ExitDate": "2023-07-27",
@@ -3655,6 +3916,7 @@
   },
   {
     "Code": "015750",
+    "Name": "성우하이텍",
     "Market": "KOSDAQ",
     "EntryDate": "2023-07-06",
     "ExitDate": "2023-07-27",
@@ -3669,6 +3931,7 @@
   },
   {
     "Code": "002710",
+    "Name": "TCC스틸",
     "Market": "KOSPI",
     "EntryDate": "2023-07-12",
     "ExitDate": "2023-08-07",
@@ -3683,6 +3946,7 @@
   },
   {
     "Code": "247540",
+    "Name": "에코프로비엠",
     "Market": "KOSDAQ",
     "EntryDate": "2023-07-19",
     "ExitDate": "2023-08-07",
@@ -3697,6 +3961,7 @@
   },
   {
     "Code": "039030",
+    "Name": "이오테크닉스",
     "Market": "KOSDAQ",
     "EntryDate": "2023-07-27",
     "ExitDate": "2023-08-09",
@@ -3711,6 +3976,7 @@
   },
   {
     "Code": "348210",
+    "Name": "넥스틴",
     "Market": "KOSDAQ",
     "EntryDate": "2023-07-27",
     "ExitDate": "2023-08-10",
@@ -3725,6 +3991,7 @@
   },
   {
     "Code": "000660",
+    "Name": "SK하이닉스",
     "Market": "KOSPI",
     "EntryDate": "2023-07-27",
     "ExitDate": "2023-08-14",
@@ -3739,6 +4006,7 @@
   },
   {
     "Code": "039200",
+    "Name": "오스코텍",
     "Market": "KOSDAQ",
     "EntryDate": "2023-07-27",
     "ExitDate": "2023-08-17",
@@ -3753,6 +4021,7 @@
   },
   {
     "Code": "047050",
+    "Name": "포스코인터내셔널",
     "Market": "KOSPI",
     "EntryDate": "2023-07-24",
     "ExitDate": "2023-08-21",
@@ -3767,6 +4036,7 @@
   },
   {
     "Code": "060280",
+    "Name": "큐렉소",
     "Market": "KOSDAQ",
     "EntryDate": "2023-08-24",
     "ExitDate": "2023-08-30",
@@ -3781,6 +4051,7 @@
   },
   {
     "Code": "065350",
+    "Name": "신성델타테크",
     "Market": "KOSDAQ",
     "EntryDate": "2023-08-09",
     "ExitDate": "2023-09-08",
@@ -3795,6 +4066,7 @@
   },
   {
     "Code": "192820",
+    "Name": "코스맥스",
     "Market": "KOSPI",
     "EntryDate": "2023-08-10",
     "ExitDate": "2023-09-11",
@@ -3809,6 +4081,7 @@
   },
   {
     "Code": "099190",
+    "Name": "아이센스",
     "Market": "KOSDAQ",
     "EntryDate": "2023-09-08",
     "ExitDate": "2023-09-12",
@@ -3823,6 +4096,7 @@
   },
   {
     "Code": "036930",
+    "Name": "주성엔지니어링",
     "Market": "KOSDAQ",
     "EntryDate": "2023-09-14",
     "ExitDate": "2023-09-18",
@@ -3837,6 +4111,7 @@
   },
   {
     "Code": "307950",
+    "Name": "현대오토에버",
     "Market": "KOSPI",
     "EntryDate": "2023-08-30",
     "ExitDate": "2023-09-19",
@@ -3851,6 +4126,7 @@
   },
   {
     "Code": "196170",
+    "Name": "알테오젠",
     "Market": "KOSDAQ",
     "EntryDate": "2023-09-19",
     "ExitDate": "2023-09-20",
@@ -3865,6 +4141,7 @@
   },
   {
     "Code": "140410",
+    "Name": "메지온",
     "Market": "KOSDAQ",
     "EntryDate": "2023-08-31",
     "ExitDate": "2023-09-21",
@@ -3879,6 +4156,7 @@
   },
   {
     "Code": "009420",
+    "Name": "한올바이오파마",
     "Market": "KOSPI",
     "EntryDate": "2023-09-11",
     "ExitDate": "2023-09-26",
@@ -3893,6 +4171,7 @@
   },
   {
     "Code": "003030",
+    "Name": "세아제강지주",
     "Market": "KOSPI",
     "EntryDate": "2023-09-20",
     "ExitDate": "2023-10-05",
@@ -3907,6 +4186,7 @@
   },
   {
     "Code": "161890",
+    "Name": "한국콜마",
     "Market": "KOSPI",
     "EntryDate": "2023-08-07",
     "ExitDate": "2023-10-06",
@@ -3921,6 +4201,7 @@
   },
   {
     "Code": "000400",
+    "Name": "롯데손해보험",
     "Market": "KOSPI",
     "EntryDate": "2023-09-18",
     "ExitDate": "2023-10-17",
@@ -3935,6 +4216,7 @@
   },
   {
     "Code": "091120",
+    "Name": "이엠텍",
     "Market": "KOSDAQ",
     "EntryDate": "2023-08-14",
     "ExitDate": "2023-11-01",
@@ -3949,6 +4231,7 @@
   },
   {
     "Code": "006120",
+    "Name": "SK디스커버리",
     "Market": "KOSPI",
     "EntryDate": "2023-12-04",
     "ExitDate": "2023-12-11",
@@ -3963,6 +4246,7 @@
   },
   {
     "Code": "036540",
+    "Name": "SFA반도체",
     "Market": "KOSDAQ",
     "EntryDate": "2023-12-12",
     "ExitDate": "2023-12-15",
@@ -3977,6 +4261,7 @@
   },
   {
     "Code": "079550",
+    "Name": "LIG넥스원",
     "Market": "KOSPI",
     "EntryDate": "2023-12-11",
     "ExitDate": "2024-01-09",
@@ -3991,6 +4276,7 @@
   },
   {
     "Code": "028300",
+    "Name": "HLB",
     "Market": "KOSDAQ",
     "EntryDate": "2023-12-14",
     "ExitDate": "2024-01-11",
@@ -4005,6 +4291,7 @@
   },
   {
     "Code": "068270",
+    "Name": "셀트리온",
     "Market": "KOSPI",
     "EntryDate": "2023-12-12",
     "ExitDate": "2024-01-12",
@@ -4019,6 +4306,7 @@
   },
   {
     "Code": "003530",
+    "Name": "한화투자증권",
     "Market": "KOSPI",
     "EntryDate": "2024-01-11",
     "ExitDate": "2024-01-12",
@@ -4033,6 +4321,7 @@
   },
   {
     "Code": "402340",
+    "Name": "SK스퀘어",
     "Market": "KOSPI",
     "EntryDate": "2023-11-30",
     "ExitDate": "2024-01-17",
@@ -4047,6 +4336,7 @@
   },
   {
     "Code": "323410",
+    "Name": "카카오뱅크",
     "Market": "KOSPI",
     "EntryDate": "2024-01-15",
     "ExitDate": "2024-01-17",
@@ -4061,6 +4351,7 @@
   },
   {
     "Code": "018260",
+    "Name": "삼성에스디에스",
     "Market": "KOSPI",
     "EntryDate": "2023-11-29",
     "ExitDate": "2024-01-29",
@@ -4075,6 +4366,7 @@
   },
   {
     "Code": "003280",
+    "Name": "흥아해운",
     "Market": "KOSPI",
     "EntryDate": "2024-01-12",
     "ExitDate": "2024-01-29",
@@ -4089,6 +4381,7 @@
   },
   {
     "Code": "286940",
+    "Name": "롯데정보통신",
     "Market": "KOSPI",
     "EntryDate": "2024-01-26",
     "ExitDate": "2024-01-29",
@@ -4103,6 +4396,7 @@
   },
   {
     "Code": "950160",
+    "Name": "코오롱티슈진",
     "Market": "KOSDAQ",
     "EntryDate": "2024-01-11",
     "ExitDate": "2024-02-07",
@@ -4117,6 +4411,7 @@
   },
   {
     "Code": "085620",
+    "Name": "미래에셋생명",
     "Market": "KOSPI",
     "EntryDate": "2024-01-30",
     "ExitDate": "2024-02-23",
@@ -4131,6 +4426,7 @@
   },
   {
     "Code": "005387",
+    "Name": "현대차2우B",
     "Market": "KOSPI",
     "EntryDate": "2023-04-25",
     "ExitDate": "2024-02-28",
@@ -4145,6 +4441,7 @@
   },
   {
     "Code": "180640",
+    "Name": "한진칼",
     "Market": "KOSPI",
     "EntryDate": "2023-12-20",
     "ExitDate": "2024-02-29",
@@ -4159,6 +4456,7 @@
   },
   {
     "Code": "005385",
+    "Name": "현대차우",
     "Market": "KOSPI",
     "EntryDate": "2023-04-25",
     "ExitDate": "2024-03-11",
@@ -4173,6 +4471,7 @@
   },
   {
     "Code": "281820",
+    "Name": "케이씨텍",
     "Market": "KOSPI",
     "EntryDate": "2024-03-06",
     "ExitDate": "2024-03-12",
@@ -4187,6 +4486,7 @@
   },
   {
     "Code": "025320",
+    "Name": "시노펙스",
     "Market": "KOSDAQ",
     "EntryDate": "2024-03-11",
     "ExitDate": "2024-03-14",
@@ -4201,6 +4501,7 @@
   },
   {
     "Code": "196170",
+    "Name": "알테오젠",
     "Market": "KOSDAQ",
     "EntryDate": "2024-02-26",
     "ExitDate": "2024-03-27",
@@ -4215,6 +4516,7 @@
   },
   {
     "Code": "005940",
+    "Name": "NH투자증권",
     "Market": "KOSPI",
     "EntryDate": "2024-03-13",
     "ExitDate": "2024-03-28",
@@ -4229,6 +4531,7 @@
   },
   {
     "Code": "000270",
+    "Name": "기아",
     "Market": "KOSPI",
     "EntryDate": "2024-02-02",
     "ExitDate": "2024-03-29",
@@ -4243,6 +4546,7 @@
   },
   {
     "Code": "316140",
+    "Name": "우리금융지주",
     "Market": "KOSPI",
     "EntryDate": "2024-03-14",
     "ExitDate": "2024-04-01",
@@ -4257,6 +4561,7 @@
   },
   {
     "Code": "012450",
+    "Name": "한화에어로스페이스",
     "Market": "KOSPI",
     "EntryDate": "2024-04-02",
     "ExitDate": "2024-04-03",
@@ -4271,6 +4576,7 @@
   },
   {
     "Code": "018290",
+    "Name": "브이티",
     "Market": "KOSDAQ",
     "EntryDate": "2024-04-03",
     "ExitDate": "2024-04-05",
@@ -4285,6 +4591,7 @@
   },
   {
     "Code": "011790",
+    "Name": "SKC",
     "Market": "KOSPI",
     "EntryDate": "2024-04-04",
     "ExitDate": "2024-04-16",
@@ -4299,6 +4606,7 @@
   },
   {
     "Code": "319660",
+    "Name": "피에스케이",
     "Market": "KOSDAQ",
     "EntryDate": "2024-02-29",
     "ExitDate": "2024-04-22",
@@ -4313,6 +4621,7 @@
   },
   {
     "Code": "064760",
+    "Name": "티씨케이",
     "Market": "KOSDAQ",
     "EntryDate": "2024-03-29",
     "ExitDate": "2024-04-22",
@@ -4327,6 +4636,7 @@
   },
   {
     "Code": "000400",
+    "Name": "롯데손해보험",
     "Market": "KOSPI",
     "EntryDate": "2024-04-23",
     "ExitDate": "2024-04-26",
@@ -4341,6 +4651,7 @@
   },
   {
     "Code": "103590",
+    "Name": "일진전기",
     "Market": "KOSPI",
     "EntryDate": "2024-04-26",
     "ExitDate": "2024-05-02",
@@ -4355,6 +4666,7 @@
   },
   {
     "Code": "204270",
+    "Name": "제이앤티씨",
     "Market": "KOSDAQ",
     "EntryDate": "2024-04-05",
     "ExitDate": "2024-05-03",
@@ -4369,6 +4681,7 @@
   },
   {
     "Code": "082740",
+    "Name": "한화엔진",
     "Market": "KOSPI",
     "EntryDate": "2024-04-25",
     "ExitDate": "2024-05-03",
@@ -4383,6 +4696,7 @@
   },
   {
     "Code": "073240",
+    "Name": "금호타이어",
     "Market": "KOSPI",
     "EntryDate": "2024-01-25",
     "ExitDate": "2024-05-16",
@@ -4397,6 +4711,7 @@
   },
   {
     "Code": "002840",
+    "Name": "미원상사",
     "Market": "KOSPI",
     "EntryDate": "2024-05-07",
     "ExitDate": "2024-05-17",
@@ -4411,6 +4726,7 @@
   },
   {
     "Code": "004490",
+    "Name": "세방전지",
     "Market": "KOSPI",
     "EntryDate": "2024-02-07",
     "ExitDate": "2024-05-20",
@@ -4425,6 +4741,7 @@
   },
   {
     "Code": "232140",
+    "Name": "와이아이케이",
     "Market": "KOSDAQ",
     "EntryDate": "2024-04-18",
     "ExitDate": "2024-05-27",
@@ -4439,6 +4756,7 @@
   },
   {
     "Code": "005385",
+    "Name": "현대차우",
     "Market": "KOSPI",
     "EntryDate": "2024-05-22",
     "ExitDate": "2024-05-31",
@@ -4453,6 +4771,7 @@
   },
   {
     "Code": "042700",
+    "Name": "한미반도체",
     "Market": "KOSPI",
     "EntryDate": "2024-03-28",
     "ExitDate": "2024-06-03",
@@ -4467,6 +4786,7 @@
   },
   {
     "Code": "007660",
+    "Name": "이수페타시스",
     "Market": "KOSPI",
     "EntryDate": "2024-05-16",
     "ExitDate": "2024-06-03",
@@ -4481,6 +4801,7 @@
   },
   {
     "Code": "034020",
+    "Name": "두산에너빌리티",
     "Market": "KOSPI",
     "EntryDate": "2024-05-27",
     "ExitDate": "2024-06-04",
@@ -4495,6 +4816,7 @@
   },
   {
     "Code": "229640",
+    "Name": "LS에코에너지",
     "Market": "KOSPI",
     "EntryDate": "2024-05-20",
     "ExitDate": "2024-06-05",
@@ -4509,6 +4831,7 @@
   },
   {
     "Code": "175330",
+    "Name": "JB금융지주",
     "Market": "KOSPI",
     "EntryDate": "2024-05-31",
     "ExitDate": "2024-06-11",
@@ -4523,6 +4846,7 @@
   },
   {
     "Code": "237690",
+    "Name": "에스티팜",
     "Market": "KOSDAQ",
     "EntryDate": "2024-06-07",
     "ExitDate": "2024-06-12",
@@ -4537,6 +4861,7 @@
   },
   {
     "Code": "078600",
+    "Name": "대주전자재료",
     "Market": "KOSDAQ",
     "EntryDate": "2024-06-11",
     "ExitDate": "2024-06-14",
@@ -4551,6 +4876,7 @@
   },
   {
     "Code": "317330",
+    "Name": "덕산테코피아",
     "Market": "KOSDAQ",
     "EntryDate": "2024-06-13",
     "ExitDate": "2024-06-18",
@@ -4565,6 +4891,7 @@
   },
   {
     "Code": "064350",
+    "Name": "현대로템",
     "Market": "KOSPI",
     "EntryDate": "2024-06-17",
     "ExitDate": "2024-06-20",
@@ -4579,6 +4906,7 @@
   },
   {
     "Code": "042000",
+    "Name": "카페24",
     "Market": "KOSDAQ",
     "EntryDate": "2024-06-20",
     "ExitDate": "2024-06-24",
@@ -4593,6 +4921,7 @@
   },
   {
     "Code": "257720",
+    "Name": "실리콘투",
     "Market": "KOSDAQ",
     "EntryDate": "2024-05-09",
     "ExitDate": "2024-06-28",
@@ -4607,6 +4936,7 @@
   },
   {
     "Code": "031980",
+    "Name": "피에스케이홀딩스",
     "Market": "KOSDAQ",
     "EntryDate": "2024-06-05",
     "ExitDate": "2024-06-28",
@@ -4621,6 +4951,7 @@
   },
   {
     "Code": "036460",
+    "Name": "한국가스공사",
     "Market": "KOSPI",
     "EntryDate": "2024-06-03",
     "ExitDate": "2024-07-02",
@@ -4635,6 +4966,7 @@
   },
   {
     "Code": "005880",
+    "Name": "대한해운",
     "Market": "KOSPI",
     "EntryDate": "2024-06-28",
     "ExitDate": "2024-07-02",
@@ -4649,6 +4981,7 @@
   },
   {
     "Code": "336370",
+    "Name": "솔루스첨단소재",
     "Market": "KOSPI",
     "EntryDate": "2024-07-01",
     "ExitDate": "2024-07-02",
@@ -4663,6 +4996,7 @@
   },
   {
     "Code": "204270",
+    "Name": "제이앤티씨",
     "Market": "KOSDAQ",
     "EntryDate": "2024-06-18",
     "ExitDate": "2024-07-10",
@@ -4677,6 +5011,7 @@
   },
   {
     "Code": "034020",
+    "Name": "두산에너빌리티",
     "Market": "KOSPI",
     "EntryDate": "2024-07-09",
     "ExitDate": "2024-07-12",
@@ -4691,6 +5026,7 @@
   },
   {
     "Code": "060370",
+    "Name": "LS마린솔루션",
     "Market": "KOSDAQ",
     "EntryDate": "2024-07-11",
     "ExitDate": "2024-07-12",
@@ -4705,6 +5041,7 @@
   },
   {
     "Code": "950160",
+    "Name": "코오롱티슈진",
     "Market": "KOSDAQ",
     "EntryDate": "2024-07-12",
     "ExitDate": "2024-07-18",
@@ -4719,6 +5056,7 @@
   },
   {
     "Code": "319660",
+    "Name": "피에스케이",
     "Market": "KOSDAQ",
     "EntryDate": "2024-06-07",
     "ExitDate": "2024-07-22",
@@ -4733,6 +5071,7 @@
   },
   {
     "Code": "010120",
+    "Name": "LS ELECTRIC",
     "Market": "KOSPI",
     "EntryDate": "2024-07-23",
     "ExitDate": "2024-07-25",
@@ -4747,6 +5086,7 @@
   },
   {
     "Code": "082740",
+    "Name": "한화엔진",
     "Market": "KOSPI",
     "EntryDate": "2024-07-23",
     "ExitDate": "2024-07-25",
@@ -4761,6 +5101,7 @@
   },
   {
     "Code": "079550",
+    "Name": "LIG넥스원",
     "Market": "KOSPI",
     "EntryDate": "2024-07-15",
     "ExitDate": "2024-07-26",
@@ -4775,6 +5116,7 @@
   },
   {
     "Code": "087010",
+    "Name": "펩트론",
     "Market": "KOSDAQ",
     "EntryDate": "2024-07-01",
     "ExitDate": "2024-07-29",
@@ -4789,6 +5131,7 @@
   },
   {
     "Code": "214150",
+    "Name": "클래시스",
     "Market": "KOSDAQ",
     "EntryDate": "2024-05-09",
     "ExitDate": "2024-08-02",
@@ -4803,6 +5146,7 @@
   },
   {
     "Code": "141080",
+    "Name": "리가켐바이오",
     "Market": "KOSDAQ",
     "EntryDate": "2024-07-05",
     "ExitDate": "2024-08-05",
@@ -4817,6 +5161,7 @@
   },
   {
     "Code": "000100",
+    "Name": "유한양행",
     "Market": "KOSPI",
     "EntryDate": "2024-07-05",
     "ExitDate": "2024-08-05",
@@ -4831,6 +5176,7 @@
   },
   {
     "Code": "329180",
+    "Name": "HD현대중공업",
     "Market": "KOSPI",
     "EntryDate": "2024-07-26",
     "ExitDate": "2024-08-05",
@@ -4845,6 +5191,7 @@
   },
   {
     "Code": "010620",
+    "Name": "HD현대미포",
     "Market": "KOSPI",
     "EntryDate": "2024-07-26",
     "ExitDate": "2024-08-05",
@@ -4859,6 +5206,7 @@
   },
   {
     "Code": "138930",
+    "Name": "BNK금융지주",
     "Market": "KOSPI",
     "EntryDate": "2024-07-29",
     "ExitDate": "2024-08-05",
@@ -4873,6 +5221,7 @@
   },
   {
     "Code": "083650",
+    "Name": "비에이치아이",
     "Market": "KOSDAQ",
     "EntryDate": "2025-01-24",
     "ExitDate": "2025-01-31",
@@ -4887,6 +5236,7 @@
   },
   {
     "Code": "082270",
+    "Name": "젬백스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-02-11",
     "ExitDate": "2025-02-14",
@@ -4901,6 +5251,7 @@
   },
   {
     "Code": "226950",
+    "Name": "올릭스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-02-12",
     "ExitDate": "2025-02-14",
@@ -4915,6 +5266,7 @@
   },
   {
     "Code": "161580",
+    "Name": "필옵틱스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-02-07",
     "ExitDate": "2025-02-27",
@@ -4929,6 +5281,7 @@
   },
   {
     "Code": "042670",
+    "Name": "HD현대인프라코어",
     "Market": "KOSPI",
     "EntryDate": "2025-02-13",
     "ExitDate": "2025-02-28",
@@ -4943,6 +5296,7 @@
   },
   {
     "Code": "034020",
+    "Name": "두산에너빌리티",
     "Market": "KOSPI",
     "EntryDate": "2025-02-14",
     "ExitDate": "2025-02-28",
@@ -4957,6 +5311,7 @@
   },
   {
     "Code": "214150",
+    "Name": "클래시스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-02-27",
     "ExitDate": "2025-02-28",
@@ -4971,6 +5326,7 @@
   },
   {
     "Code": "042000",
+    "Name": "카페24",
     "Market": "KOSDAQ",
     "EntryDate": "2025-02-04",
     "ExitDate": "2025-03-06",
@@ -4985,6 +5341,7 @@
   },
   {
     "Code": "097230",
+    "Name": "HJ중공업",
     "Market": "KOSPI",
     "EntryDate": "2025-03-05",
     "ExitDate": "2025-03-11",
@@ -4999,6 +5356,7 @@
   },
   {
     "Code": "082270",
+    "Name": "젬백스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-02-17",
     "ExitDate": "2025-03-19",
@@ -5013,6 +5371,7 @@
   },
   {
     "Code": "096770",
+    "Name": "SK이노베이션",
     "Market": "KOSPI",
     "EntryDate": "2025-03-10",
     "ExitDate": "2025-03-19",
@@ -5027,6 +5386,7 @@
   },
   {
     "Code": "012450",
+    "Name": "한화에어로스페이스",
     "Market": "KOSPI",
     "EntryDate": "2025-02-11",
     "ExitDate": "2025-03-21",
@@ -5041,6 +5401,7 @@
   },
   {
     "Code": "000880",
+    "Name": "한화",
     "Market": "KOSPI",
     "EntryDate": "2025-02-11",
     "ExitDate": "2025-03-21",
@@ -5055,6 +5416,7 @@
   },
   {
     "Code": "272210",
+    "Name": "한화시스템",
     "Market": "KOSPI",
     "EntryDate": "2025-03-07",
     "ExitDate": "2025-03-25",
@@ -5069,6 +5431,7 @@
   },
   {
     "Code": "005690",
+    "Name": "파미셀",
     "Market": "KOSPI",
     "EntryDate": "2025-03-12",
     "ExitDate": "2025-03-25",
@@ -5083,6 +5446,7 @@
   },
   {
     "Code": "007390",
+    "Name": "네이처셀",
     "Market": "KOSDAQ",
     "EntryDate": "2025-03-25",
     "ExitDate": "2025-03-26",
@@ -5097,6 +5461,7 @@
   },
   {
     "Code": "030190",
+    "Name": "NICE평가정보",
     "Market": "KOSPI",
     "EntryDate": "2025-02-26",
     "ExitDate": "2025-03-28",
@@ -5111,6 +5476,7 @@
   },
   {
     "Code": "042660",
+    "Name": "한화오션",
     "Market": "KOSPI",
     "EntryDate": "2025-04-25",
     "ExitDate": "2025-04-29",
@@ -5125,6 +5491,7 @@
   },
   {
     "Code": "083650",
+    "Name": "비에이치아이",
     "Market": "KOSDAQ",
     "EntryDate": "2025-04-28",
     "ExitDate": "2025-06-02",
@@ -5139,6 +5506,7 @@
   },
   {
     "Code": "010620",
+    "Name": "HD현대미포",
     "Market": "KOSPI",
     "EntryDate": "2025-04-24",
     "ExitDate": "2025-06-11",
@@ -5153,6 +5521,7 @@
   },
   {
     "Code": "001720",
+    "Name": "신영증권",
     "Market": "KOSPI",
     "EntryDate": "2025-05-02",
     "ExitDate": "2025-06-19",
@@ -5167,6 +5536,7 @@
   },
   {
     "Code": "052400",
+    "Name": "코나아이",
     "Market": "KOSDAQ",
     "EntryDate": "2025-06-04",
     "ExitDate": "2025-06-26",
@@ -5181,6 +5551,7 @@
   },
   {
     "Code": "003540",
+    "Name": "대신증권",
     "Market": "KOSPI",
     "EntryDate": "2024-01-29",
     "ExitDate": "2025-06-27",
@@ -5195,6 +5566,7 @@
   },
   {
     "Code": "015760",
+    "Name": "한국전력",
     "Market": "KOSPI",
     "EntryDate": "2025-06-26",
     "ExitDate": "2025-07-01",
@@ -5209,6 +5581,7 @@
   },
   {
     "Code": "376300",
+    "Name": "디어유",
     "Market": "KOSDAQ",
     "EntryDate": "2025-06-27",
     "ExitDate": "2025-07-02",
@@ -5223,6 +5596,7 @@
   },
   {
     "Code": "006800",
+    "Name": "미래에셋증권",
     "Market": "KOSPI",
     "EntryDate": "2025-04-30",
     "ExitDate": "2025-07-04",
@@ -5237,6 +5611,7 @@
   },
   {
     "Code": "278470",
+    "Name": "에이피알",
     "Market": "KOSPI",
     "EntryDate": "2025-05-08",
     "ExitDate": "2025-07-04",
@@ -5251,6 +5626,7 @@
   },
   {
     "Code": "032190",
+    "Name": "다우데이타",
     "Market": "KOSDAQ",
     "EntryDate": "2025-07-01",
     "ExitDate": "2025-07-04",
@@ -5265,6 +5641,7 @@
   },
   {
     "Code": "025980",
+    "Name": "아난티",
     "Market": "KOSDAQ",
     "EntryDate": "2025-06-12",
     "ExitDate": "2025-07-07",
@@ -5279,6 +5656,7 @@
   },
   {
     "Code": "060370",
+    "Name": "LS마린솔루션",
     "Market": "KOSDAQ",
     "EntryDate": "2025-06-09",
     "ExitDate": "2025-07-14",
@@ -5293,6 +5671,7 @@
   },
   {
     "Code": "004990",
+    "Name": "롯데지주",
     "Market": "KOSPI",
     "EntryDate": "2025-07-09",
     "ExitDate": "2025-07-16",
@@ -5307,6 +5686,7 @@
   },
   {
     "Code": "023590",
+    "Name": "다우기술",
     "Market": "KOSPI",
     "EntryDate": "2025-05-08",
     "ExitDate": "2025-07-18",
@@ -5321,6 +5701,7 @@
   },
   {
     "Code": "044490",
+    "Name": "태웅",
     "Market": "KOSDAQ",
     "EntryDate": "2025-07-21",
     "ExitDate": "2025-07-22",
@@ -5335,6 +5716,7 @@
   },
   {
     "Code": "001720",
+    "Name": "신영증권",
     "Market": "KOSPI",
     "EntryDate": "2025-07-08",
     "ExitDate": "2025-07-23",
@@ -5349,6 +5731,7 @@
   },
   {
     "Code": "060250",
+    "Name": "NHN KCP",
     "Market": "KOSDAQ",
     "EntryDate": "2025-07-22",
     "ExitDate": "2025-07-23",
@@ -5363,6 +5746,7 @@
   },
   {
     "Code": "139130",
+    "Name": "iM금융지주",
     "Market": "KOSPI",
     "EntryDate": "2025-04-29",
     "ExitDate": "2025-07-28",
@@ -5377,6 +5761,7 @@
   },
   {
     "Code": "003470",
+    "Name": "유안타증권",
     "Market": "KOSPI",
     "EntryDate": "2025-07-08",
     "ExitDate": "2025-07-28",
@@ -5391,6 +5776,7 @@
   },
   {
     "Code": "200670",
+    "Name": "휴메딕스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-07-22",
     "ExitDate": "2025-07-28",
@@ -5405,6 +5791,7 @@
   },
   {
     "Code": "218410",
+    "Name": "RFHIC",
     "Market": "KOSDAQ",
     "EntryDate": "2025-07-28",
     "ExitDate": "2025-07-29",
@@ -5419,6 +5806,7 @@
   },
   {
     "Code": "336570",
+    "Name": "원텍",
     "Market": "KOSDAQ",
     "EntryDate": "2025-06-02",
     "ExitDate": "2025-07-30",
@@ -5433,6 +5821,7 @@
   },
   {
     "Code": "214370",
+    "Name": "케어젠",
     "Market": "KOSDAQ",
     "EntryDate": "2025-07-14",
     "ExitDate": "2025-08-01",
@@ -5447,6 +5836,7 @@
   },
   {
     "Code": "214430",
+    "Name": "아이쓰리시스템",
     "Market": "KOSDAQ",
     "EntryDate": "2025-07-15",
     "ExitDate": "2025-08-01",
@@ -5461,6 +5851,7 @@
   },
   {
     "Code": "004020",
+    "Name": "현대제철",
     "Market": "KOSPI",
     "EntryDate": "2025-07-03",
     "ExitDate": "2025-08-04",
@@ -5475,6 +5866,7 @@
   },
   {
     "Code": "100090",
+    "Name": "SK오션플랜트",
     "Market": "KOSPI",
     "EntryDate": "2025-08-04",
     "ExitDate": "2025-08-11",
@@ -5489,6 +5881,7 @@
   },
   {
     "Code": "015760",
+    "Name": "한국전력",
     "Market": "KOSPI",
     "EntryDate": "2025-08-06",
     "ExitDate": "2025-08-12",
@@ -5503,6 +5896,7 @@
   },
   {
     "Code": "213420",
+    "Name": "덕산네오룩스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-08-13",
     "ExitDate": "2025-08-14",
@@ -5517,6 +5911,7 @@
   },
   {
     "Code": "042670",
+    "Name": "HD현대인프라코어",
     "Market": "KOSPI",
     "EntryDate": "2025-07-23",
     "ExitDate": "2025-08-18",
@@ -5531,6 +5926,7 @@
   },
   {
     "Code": "445680",
+    "Name": "큐리옥스바이오시스템즈",
     "Market": "KOSDAQ",
     "EntryDate": "2025-08-08",
     "ExitDate": "2025-08-18",
@@ -5545,6 +5941,7 @@
   },
   {
     "Code": "108490",
+    "Name": "로보티즈",
     "Market": "KOSDAQ",
     "EntryDate": "2025-08-25",
     "ExitDate": "2025-08-28",
@@ -5559,6 +5956,7 @@
   },
   {
     "Code": "010620",
+    "Name": "HD현대미포",
     "Market": "KOSPI",
     "EntryDate": "2025-08-27",
     "ExitDate": "2025-08-28",
@@ -5573,6 +5971,7 @@
   },
   {
     "Code": "006650",
+    "Name": "대한유화",
     "Market": "KOSPI",
     "EntryDate": "2025-08-26",
     "ExitDate": "2025-09-02",
@@ -5587,6 +5986,7 @@
   },
   {
     "Code": "042660",
+    "Name": "한화오션",
     "Market": "KOSPI",
     "EntryDate": "2025-07-28",
     "ExitDate": "2025-09-05",
@@ -5601,6 +6001,7 @@
   },
   {
     "Code": "030530",
+    "Name": "원익홀딩스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-09-09",
     "ExitDate": "2025-09-17",
@@ -5615,6 +6016,7 @@
   },
   {
     "Code": "122870",
+    "Name": "와이지엔터테인먼트",
     "Market": "KOSDAQ",
     "EntryDate": "2025-08-11",
     "ExitDate": "2025-09-24",
@@ -5629,6 +6031,7 @@
   },
   {
     "Code": "460930",
+    "Name": "현대힘스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-08-28",
     "ExitDate": "2025-09-26",
@@ -5643,6 +6046,7 @@
   },
   {
     "Code": "290650",
+    "Name": "엘앤씨바이오",
     "Market": "KOSDAQ",
     "EntryDate": "2025-09-05",
     "ExitDate": "2025-09-26",
@@ -5657,6 +6061,7 @@
   },
   {
     "Code": "032350",
+    "Name": "롯데관광개발",
     "Market": "KOSPI",
     "EntryDate": "2025-09-18",
     "ExitDate": "2025-09-29",
@@ -5671,6 +6076,7 @@
   },
   {
     "Code": "060250",
+    "Name": "NHN KCP",
     "Market": "KOSDAQ",
     "EntryDate": "2025-09-26",
     "ExitDate": "2025-09-30",
@@ -5685,6 +6091,7 @@
   },
   {
     "Code": "249420",
+    "Name": "일동제약",
     "Market": "KOSPI",
     "EntryDate": "2025-09-29",
     "ExitDate": "2025-09-30",
@@ -5699,6 +6106,7 @@
   },
   {
     "Code": "101490",
+    "Name": "에스앤에스텍",
     "Market": "KOSDAQ",
     "EntryDate": "2025-07-28",
     "ExitDate": "2025-10-02",
@@ -5713,6 +6121,7 @@
   },
   {
     "Code": "082740",
+    "Name": "한화엔진",
     "Market": "KOSPI",
     "EntryDate": "2025-10-01",
     "ExitDate": "2025-10-14",
@@ -5727,6 +6136,7 @@
   },
   {
     "Code": "030530",
+    "Name": "원익홀딩스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-10-13",
     "ExitDate": "2025-10-14",
@@ -5741,6 +6151,7 @@
   },
   {
     "Code": "140410",
+    "Name": "메지온",
     "Market": "KOSDAQ",
     "EntryDate": "2025-09-02",
     "ExitDate": "2025-10-16",
@@ -5755,6 +6166,7 @@
   },
   {
     "Code": "319400",
+    "Name": "현대무벡스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-10-15",
     "ExitDate": "2025-10-16",
@@ -5769,6 +6181,7 @@
   },
   {
     "Code": "062040",
+    "Name": "산일전기",
     "Market": "KOSPI",
     "EntryDate": "2025-10-16",
     "ExitDate": "2025-10-22",
@@ -5783,6 +6196,7 @@
   },
   {
     "Code": "071320",
+    "Name": "지역난방공사",
     "Market": "KOSPI",
     "EntryDate": "2025-10-22",
     "ExitDate": "2025-10-24",
@@ -5797,6 +6211,7 @@
   },
   {
     "Code": "017960",
+    "Name": "한국카본",
     "Market": "KOSPI",
     "EntryDate": "2025-07-29",
     "ExitDate": "2025-11-04",
@@ -5811,6 +6226,7 @@
   },
   {
     "Code": "034020",
+    "Name": "두산에너빌리티",
     "Market": "KOSPI",
     "EntryDate": "2025-10-10",
     "ExitDate": "2025-11-05",
@@ -5825,6 +6241,7 @@
   },
   {
     "Code": "042700",
+    "Name": "한미반도체",
     "Market": "KOSPI",
     "EntryDate": "2025-10-13",
     "ExitDate": "2025-11-05",
@@ -5839,6 +6256,7 @@
   },
   {
     "Code": "010140",
+    "Name": "삼성중공업",
     "Market": "KOSPI",
     "EntryDate": "2025-10-27",
     "ExitDate": "2025-11-05",
@@ -5853,6 +6271,7 @@
   },
   {
     "Code": "039030",
+    "Name": "이오테크닉스",
     "Market": "KOSDAQ",
     "EntryDate": "2025-11-04",
     "ExitDate": "2025-11-05",
@@ -5867,6 +6286,7 @@
   },
   {
     "Code": "009970",
+    "Name": "영원무역홀딩스",
     "Market": "KOSPI",
     "EntryDate": "2025-11-06",
     "ExitDate": "2025-11-07",
@@ -5881,6 +6301,7 @@
   },
   {
     "Code": "222800",
+    "Name": "심텍",
     "Market": "KOSDAQ",
     "EntryDate": "2025-09-24",
     "ExitDate": "2025-11-10",
@@ -5895,6 +6316,7 @@
   },
   {
     "Code": "000150",
+    "Name": "두산",
     "Market": "KOSPI",
     "EntryDate": "2025-10-17",
     "ExitDate": "2025-11-18",
@@ -5909,6 +6331,7 @@
   },
   {
     "Code": "103590",
+    "Name": "일진전기",
     "Market": "KOSPI",
     "EntryDate": "2025-10-24",
     "ExitDate": "2025-11-18",
@@ -5923,6 +6346,7 @@
   },
   {
     "Code": "066575",
+    "Name": "LG전자우",
     "Market": "KOSPI",
     "EntryDate": "2025-11-06",
     "ExitDate": "2025-11-18",
@@ -5937,6 +6361,7 @@
   },
   {
     "Code": "000240",
+    "Name": "한국앤컴퍼니",
     "Market": "KOSPI",
     "EntryDate": "2025-11-10",
     "ExitDate": "2025-11-18",
@@ -5951,6 +6376,7 @@
   },
   {
     "Code": "004800",
+    "Name": "효성",
     "Market": "KOSPI",
     "EntryDate": "2025-10-14",
     "ExitDate": "2025-11-19",
@@ -5965,6 +6391,7 @@
   },
   {
     "Code": "032350",
+    "Name": "롯데관광개발",
     "Market": "KOSPI",
     "EntryDate": "2025-11-20",
     "ExitDate": "2025-11-25",
@@ -5979,6 +6406,7 @@
   },
   {
     "Code": "006730",
+    "Name": "서부T&D",
     "Market": "KOSDAQ",
     "EntryDate": "2025-11-20",
     "ExitDate": "2025-11-26",
@@ -5993,6 +6421,7 @@
   },
   {
     "Code": "214370",
+    "Name": "케어젠",
     "Market": "KOSDAQ",
     "EntryDate": "2025-11-21",
     "ExitDate": "2025-11-26",
@@ -6007,6 +6436,7 @@
   },
   {
     "Code": "214370",
+    "Name": "케어젠",
     "Market": "KOSDAQ",
     "EntryDate": "2025-11-28",
     "ExitDate": "2025-12-01",
@@ -6021,6 +6451,7 @@
   },
   {
     "Code": "009420",
+    "Name": "한올바이오파마",
     "Market": "KOSPI",
     "EntryDate": "2025-12-01",
     "ExitDate": "2025-12-03",
@@ -6035,6 +6466,7 @@
   },
   {
     "Code": "475960",
+    "Name": "토모큐브",
     "Market": "KOSDAQ",
     "EntryDate": "2025-12-04",
     "ExitDate": "2025-12-09",
@@ -6049,6 +6481,7 @@
   },
   {
     "Code": "950160",
+    "Name": "코오롱티슈진",
     "Market": "KOSDAQ",
     "EntryDate": "2025-11-21",
     "ExitDate": "2025-12-17",
@@ -6063,6 +6496,7 @@
   },
   {
     "Code": "195870",
+    "Name": "해성디에스",
     "Market": "KOSPI",
     "EntryDate": "2025-12-17",
     "ExitDate": "2025-12-19",
@@ -6077,6 +6511,7 @@
   },
   {
     "Code": "071320",
+    "Name": "지역난방공사",
     "Market": "KOSPI",
     "EntryDate": "2025-11-07",
     "ExitDate": "2025-12-23",
@@ -6091,6 +6526,7 @@
   },
   {
     "Code": "090710",
+    "Name": "휴림로봇",
     "Market": "KOSDAQ",
     "EntryDate": "2025-12-29",
     "ExitDate": "2025-12-30",
@@ -6105,6 +6541,7 @@
   },
   {
     "Code": "058610",
+    "Name": "에스피지",
     "Market": "KOSDAQ",
     "EntryDate": "2025-11-19",
     "ExitDate": "2026-01-05",
@@ -6119,6 +6556,7 @@
   },
   {
     "Code": "466100",
+    "Name": "클로봇",
     "Market": "KOSDAQ",
     "EntryDate": "2025-12-09",
     "ExitDate": "2026-01-06",
@@ -6133,6 +6571,7 @@
   },
   {
     "Code": "003160",
+    "Name": "디아이",
     "Market": "KOSPI",
     "EntryDate": "2026-01-06",
     "ExitDate": "2026-01-07",
@@ -6147,6 +6586,7 @@
   },
   {
     "Code": "437730",
+    "Name": "삼현",
     "Market": "KOSDAQ",
     "EntryDate": "2025-11-27",
     "ExitDate": "2026-01-26",
@@ -6161,6 +6601,7 @@
   },
   {
     "Code": "307950",
+    "Name": "현대오토에버",
     "Market": "KOSPI",
     "EntryDate": "2025-12-19",
     "ExitDate": "2026-01-27",
@@ -6175,6 +6616,7 @@
   },
   {
     "Code": "005385",
+    "Name": "현대차우",
     "Market": "KOSPI",
     "EntryDate": "2026-01-19",
     "ExitDate": "2026-01-27",
@@ -6189,6 +6631,7 @@
   },
   {
     "Code": "005380",
+    "Name": "현대차",
     "Market": "KOSPI",
     "EntryDate": "2026-01-07",
     "ExitDate": "2026-02-06",
@@ -6203,6 +6646,7 @@
   },
   {
     "Code": "140410",
+    "Name": "메지온",
     "Market": "KOSDAQ",
     "EntryDate": "2026-01-26",
     "ExitDate": "2026-02-06",
@@ -6217,6 +6661,7 @@
   },
   {
     "Code": "009540",
+    "Name": "HD한국조선해양",
     "Market": "KOSPI",
     "EntryDate": "2025-08-28",
     "ExitDate": "2026-02-09",
@@ -6231,6 +6676,7 @@
   },
   {
     "Code": "041960",
+    "Name": "코미팜",
     "Market": "KOSDAQ",
     "EntryDate": "2026-02-13",
     "ExitDate": "2026-02-20",
@@ -6245,6 +6691,7 @@
   },
   {
     "Code": "088350",
+    "Name": "한화생명",
     "Market": "KOSPI",
     "EntryDate": "2026-02-20",
     "ExitDate": "2026-02-23",
@@ -6259,6 +6706,7 @@
   },
   {
     "Code": "085620",
+    "Name": "미래에셋생명",
     "Market": "KOSPI",
     "EntryDate": "2026-02-23",
     "ExitDate": "2026-02-24",
@@ -6273,6 +6721,7 @@
   },
   {
     "Code": "476060",
+    "Name": "온코닉테라퓨틱스",
     "Market": "KOSDAQ",
     "EntryDate": "2026-02-24",
     "ExitDate": "2026-02-26",
@@ -6287,6 +6736,7 @@
   },
   {
     "Code": "080220",
+    "Name": "제주반도체",
     "Market": "KOSDAQ",
     "EntryDate": "2025-12-30",
     "ExitDate": "2026-03-03",
@@ -6301,6 +6751,7 @@
   },
   {
     "Code": "086520",
+    "Name": "에코프로",
     "Market": "KOSDAQ",
     "EntryDate": "2026-01-27",
     "ExitDate": "2026-03-03",
@@ -6315,6 +6766,7 @@
   },
   {
     "Code": "003160",
+    "Name": "디아이",
     "Market": "KOSPI",
     "EntryDate": "2026-02-09",
     "ExitDate": "2026-03-03",
@@ -6329,6 +6781,7 @@
   },
   {
     "Code": "007070",
+    "Name": "GS리테일",
     "Market": "KOSPI",
     "EntryDate": "2025-11-07",
     "ExitDate": "2026-03-04",
@@ -6343,6 +6796,7 @@
   },
   {
     "Code": "005935",
+    "Name": "삼성전자우",
     "Market": "KOSPI",
     "EntryDate": "2026-01-05",
     "ExitDate": "2026-03-04",
@@ -6357,6 +6811,7 @@
   },
   {
     "Code": "067310",
+    "Name": "하나마이크론",
     "Market": "KOSDAQ",
     "EntryDate": "2026-01-27",
     "ExitDate": "2026-03-04",
@@ -6371,6 +6826,7 @@
   },
   {
     "Code": "009830",
+    "Name": "한화솔루션",
     "Market": "KOSPI",
     "EntryDate": "2026-02-09",
     "ExitDate": "2026-03-04",
@@ -6385,6 +6841,7 @@
   },
   {
     "Code": "042700",
+    "Name": "한미반도체",
     "Market": "KOSPI",
     "EntryDate": "2026-02-26",
     "ExitDate": "2026-03-04",
@@ -6399,6 +6856,7 @@
   },
   {
     "Code": "272210",
+    "Name": "한화시스템",
     "Market": "KOSPI",
     "EntryDate": "2026-03-03",
     "ExitDate": "2026-03-04",
@@ -6413,6 +6871,7 @@
   },
   {
     "Code": "010950",
+    "Name": "S-Oil",
     "Market": "KOSPI",
     "EntryDate": "2026-03-03",
     "ExitDate": "2026-03-04",
@@ -6427,6 +6886,7 @@
   },
   {
     "Code": "074600",
+    "Name": "원익QnC",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-06",
     "ExitDate": "2026-03-09",
@@ -6441,6 +6901,7 @@
   },
   {
     "Code": "089030",
+    "Name": "테크윙",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-06",
     "ExitDate": "2026-03-09",
@@ -6455,6 +6916,7 @@
   },
   {
     "Code": "052020",
+    "Name": "에스티큐브",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-06",
     "ExitDate": "2026-03-09",
@@ -6469,6 +6931,7 @@
   },
   {
     "Code": "078600",
+    "Name": "대주전자재료",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-06",
     "ExitDate": "2026-03-11",
@@ -6483,6 +6946,7 @@
   },
   {
     "Code": "263750",
+    "Name": "펄어비스",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-09",
     "ExitDate": "2026-03-12",
@@ -6497,6 +6961,7 @@
   },
   {
     "Code": "322000",
+    "Name": "HD현대에너지솔루션",
     "Market": "KOSPI",
     "EntryDate": "2026-03-12",
     "ExitDate": "2026-03-13",
@@ -6511,6 +6976,7 @@
   },
   {
     "Code": "044490",
+    "Name": "태웅",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-10",
     "ExitDate": "2026-03-16",
@@ -6525,6 +6991,7 @@
   },
   {
     "Code": "417200",
+    "Name": "LS머트리얼즈",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-13",
     "ExitDate": "2026-03-16",
@@ -6539,6 +7006,7 @@
   },
   {
     "Code": "079550",
+    "Name": "LIG넥스원",
     "Market": "KOSPI",
     "EntryDate": "2026-03-05",
     "ExitDate": "2026-03-17",
@@ -6553,6 +7021,7 @@
   },
   {
     "Code": "178920",
+    "Name": "PI첨단소재",
     "Market": "KOSPI",
     "EntryDate": "2026-03-17",
     "ExitDate": "2026-03-19",
@@ -6567,6 +7036,7 @@
   },
   {
     "Code": "058470",
+    "Name": "리노공업",
     "Market": "KOSDAQ",
     "EntryDate": "2025-11-25",
     "ExitDate": "2026-03-23",
@@ -6581,6 +7051,7 @@
   },
   {
     "Code": "115180",
+    "Name": "큐리언트",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-06",
     "ExitDate": "2026-03-24",
@@ -6595,6 +7066,7 @@
   },
   {
     "Code": "085620",
+    "Name": "미래에셋생명",
     "Market": "KOSPI",
     "EntryDate": "2026-03-16",
     "ExitDate": "2026-03-24",
@@ -6609,6 +7081,7 @@
   },
   {
     "Code": "000210",
+    "Name": "DL",
     "Market": "KOSPI",
     "EntryDate": "2026-03-20",
     "ExitDate": "2026-03-24",
@@ -6623,6 +7096,7 @@
   },
   {
     "Code": "017960",
+    "Name": "한국카본",
     "Market": "KOSPI",
     "EntryDate": "2026-03-09",
     "ExitDate": "2026-03-25",
@@ -6637,6 +7111,7 @@
   },
   {
     "Code": "200710",
+    "Name": "에이디테크놀로지",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-24",
     "ExitDate": "2026-03-27",
@@ -6651,6 +7126,7 @@
   },
   {
     "Code": "368770",
+    "Name": "파이버프로",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-24",
     "ExitDate": "2026-03-30",
@@ -6665,6 +7141,7 @@
   },
   {
     "Code": "007810",
+    "Name": "코리아써키트",
     "Market": "KOSPI",
     "EntryDate": "2026-03-25",
     "ExitDate": "2026-03-31",
@@ -6679,6 +7156,7 @@
   },
   {
     "Code": "161000",
+    "Name": "애경케미칼",
     "Market": "KOSPI",
     "EntryDate": "2026-03-30",
     "ExitDate": "2026-04-03",
@@ -6693,6 +7171,7 @@
   },
   {
     "Code": "086450",
+    "Name": "동국제약",
     "Market": "KOSDAQ",
     "EntryDate": "2026-04-01",
     "ExitDate": "2026-04-03",
@@ -6707,6 +7186,7 @@
   },
   {
     "Code": "112610",
+    "Name": "씨에스윈드",
     "Market": "KOSPI",
     "EntryDate": "2026-04-03",
     "ExitDate": "2026-04-07",
@@ -6721,6 +7201,7 @@
   },
   {
     "Code": "003280",
+    "Name": "흥아해운",
     "Market": "KOSPI",
     "EntryDate": "2026-03-16",
     "ExitDate": "2026-04-08",
@@ -6735,6 +7216,7 @@
   },
   {
     "Code": "003000",
+    "Name": "부광약품",
     "Market": "KOSPI",
     "EntryDate": "2026-03-24",
     "ExitDate": "2026-04-08",
@@ -6749,6 +7231,7 @@
   },
   {
     "Code": "011930",
+    "Name": "신성이엔지",
     "Market": "KOSPI",
     "EntryDate": "2026-04-03",
     "ExitDate": "2026-04-09",
@@ -6763,6 +7246,7 @@
   },
   {
     "Code": "006360",
+    "Name": "GS건설",
     "Market": "KOSPI",
     "EntryDate": "2026-04-08",
     "ExitDate": "2026-04-09",
@@ -6777,6 +7261,7 @@
   },
   {
     "Code": "027360",
+    "Name": "아주IB투자",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-11",
     "ExitDate": "2026-04-13",
@@ -6791,6 +7276,7 @@
   },
   {
     "Code": "101490",
+    "Name": "에스앤에스텍",
     "Market": "KOSDAQ",
     "EntryDate": "2026-04-09",
     "ExitDate": "2026-04-13",
@@ -6805,6 +7291,7 @@
   },
   {
     "Code": "005880",
+    "Name": "대한해운",
     "Market": "KOSPI",
     "EntryDate": "2026-04-10",
     "ExitDate": "2026-04-13",
@@ -6819,6 +7306,7 @@
   },
   {
     "Code": "032500",
+    "Name": "케이엠더블유",
     "Market": "KOSDAQ",
     "EntryDate": "2026-04-15",
     "ExitDate": "2026-04-16",
@@ -6833,6 +7321,7 @@
   },
   {
     "Code": "010060",
+    "Name": "OCI홀딩스",
     "Market": "KOSPI",
     "EntryDate": "2026-04-16",
     "ExitDate": "2026-04-17",
@@ -6847,6 +7336,7 @@
   },
   {
     "Code": "010170",
+    "Name": "대한광통신",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-11",
     "ExitDate": "2026-04-24",
@@ -6861,6 +7351,7 @@
   },
   {
     "Code": "047040",
+    "Name": "대우건설",
     "Market": "KOSPI",
     "EntryDate": "2026-03-18",
     "ExitDate": "2026-05-12",
@@ -6875,6 +7366,7 @@
   },
   {
     "Code": "375500",
+    "Name": "DL이앤씨",
     "Market": "KOSPI",
     "EntryDate": "2026-04-08",
     "ExitDate": "2026-05-12",
@@ -6889,6 +7381,7 @@
   },
   {
     "Code": "100790",
+    "Name": "미래에셋벤처투자",
     "Market": "KOSDAQ",
     "EntryDate": "2026-03-25",
     "ExitDate": "2026-05-15",
@@ -6903,6 +7396,7 @@
   },
   {
     "Code": "307950",
+    "Name": "현대오토에버",
     "Market": "KOSPI",
     "EntryDate": "2026-05-13",
     "ExitDate": "2026-05-15",
@@ -6917,6 +7411,7 @@
   },
   {
     "Code": "001440",
+    "Name": "대한전선",
     "Market": "KOSPI",
     "EntryDate": "2026-04-15",
     "ExitDate": "2026-05-19",
@@ -6931,6 +7426,7 @@
   },
   {
     "Code": "295310",
+    "Name": "에이치브이엠",
     "Market": "KOSDAQ",
     "EntryDate": "2026-05-18",
     "ExitDate": "2026-05-19",
@@ -6945,6 +7441,7 @@
   },
   {
     "Code": "006340",
+    "Name": "대원전선",
     "Market": "KOSPI",
     "EntryDate": "2026-04-29",
     "ExitDate": "2026-05-26",
@@ -6959,6 +7456,7 @@
   },
   {
     "Code": "000500",
+    "Name": "가온전선",
     "Market": "KOSPI",
     "EntryDate": "2026-04-15",
     "ExitDate": "2026-05-28",
@@ -6973,6 +7471,7 @@
   },
   {
     "Code": "090460",
+    "Name": "비에이치",
     "Market": "KOSPI",
     "EntryDate": "2026-04-17",
     "ExitDate": "2026-05-28",
@@ -6987,6 +7486,7 @@
   },
   {
     "Code": "018260",
+    "Name": "삼성에스디에스",
     "Market": "KOSPI",
     "EntryDate": "2026-05-27",
     "ExitDate": "2026-05-28",
@@ -7001,6 +7501,7 @@
   },
   {
     "Code": "009420",
+    "Name": "한올바이오파마",
     "Market": "KOSPI",
     "EntryDate": "2026-05-27",
     "ExitDate": "2026-05-28",
@@ -7015,6 +7516,7 @@
   },
   {
     "Code": "037460",
+    "Name": "삼지전자",
     "Market": "KOSDAQ",
     "EntryDate": "2026-05-15",
     "ExitDate": "2026-06-02",
@@ -7029,6 +7531,7 @@
   },
   {
     "Code": "011070",
+    "Name": "LG이노텍",
     "Market": "KOSPI",
     "EntryDate": "2026-05-29",
     "ExitDate": "2026-06-02",
@@ -7043,6 +7546,7 @@
   },
   {
     "Code": "454910",
+    "Name": "두산로보틱스",
     "Market": "KOSPI",
     "EntryDate": "2026-06-02",
     "ExitDate": "2026-06-04",
@@ -7057,6 +7561,7 @@
   },
   {
     "Code": "036570",
+    "Name": "NC",
     "Market": "KOSPI",
     "EntryDate": "2026-06-02",
     "ExitDate": "2026-06-04",
@@ -7071,6 +7576,7 @@
   },
   {
     "Code": "080220",
+    "Name": "제주반도체",
     "Market": "KOSDAQ",
     "EntryDate": "2026-04-24",
     "ExitDate": "2026-06-08",
@@ -7085,6 +7591,7 @@
   },
   {
     "Code": "031330",
+    "Name": "에스에이엠티",
     "Market": "KOSDAQ",
     "EntryDate": "2026-05-14",
     "ExitDate": "2026-06-08",
@@ -7099,6 +7606,7 @@
   },
   {
     "Code": "066575",
+    "Name": "LG전자우",
     "Market": "KOSPI",
     "EntryDate": "2026-05-29",
     "ExitDate": "2026-06-08",
@@ -7113,6 +7621,7 @@
   },
   {
     "Code": "064400",
+    "Name": "LG씨엔에스",
     "Market": "KOSPI",
     "EntryDate": "2026-05-29",
     "ExitDate": "2026-06-09",
@@ -7127,6 +7636,7 @@
   },
   {
     "Code": "093370",
+    "Name": "후성",
     "Market": "KOSPI",
     "EntryDate": "2026-06-10",
     "ExitDate": "2026-06-11",
@@ -7141,6 +7651,7 @@
   },
   {
     "Code": "093370",
+    "Name": "후성",
     "Market": "KOSPI",
     "EntryDate": "2026-06-15",
     "ExitDate": "2026-06-16",
@@ -7155,6 +7666,7 @@
   },
   {
     "Code": "001740",
+    "Name": "SK네트웍스",
     "Market": "KOSPI",
     "EntryDate": "2026-05-26",
     "ExitDate": "2026-06-18",
@@ -7169,6 +7681,7 @@
   },
   {
     "Code": "204320",
+    "Name": "HL만도",
     "Market": "KOSPI",
     "EntryDate": "2026-06-16",
     "ExitDate": "2026-06-18",
@@ -7183,6 +7696,7 @@
   },
   {
     "Code": "085620",
+    "Name": "미래에셋생명",
     "Market": "KOSPI",
     "EntryDate": "2026-06-04",
     "ExitDate": "2026-06-23",
@@ -7197,6 +7711,7 @@
   },
   {
     "Code": "009155",
+    "Name": "삼성전기우",
     "Market": "KOSPI",
     "EntryDate": "2026-06-22",
     "ExitDate": "2026-06-23",
@@ -7211,6 +7726,7 @@
   },
   {
     "Code": "001820",
+    "Name": "삼화콘덴서",
     "Market": "KOSPI",
     "EntryDate": "2026-05-20",
     "ExitDate": "2026-06-24",
@@ -7225,6 +7741,7 @@
   },
   {
     "Code": "069960",
+    "Name": "현대백화점",
     "Market": "KOSPI",
     "EntryDate": "2026-06-04",
     "ExitDate": "2026-07-02",
@@ -7239,6 +7756,7 @@
   },
   {
     "Code": "073240",
+    "Name": "금호타이어",
     "Market": "KOSPI",
     "EntryDate": "2026-07-10",
     "ExitDate": "2026-07-13",
@@ -7253,6 +7771,7 @@
   },
   {
     "Code": "475150",
+    "Name": "SK이터닉스",
     "Market": "KOSPI",
     "EntryDate": "2026-07-23",
     "ExitDate": "2026-07-27",
@@ -7267,6 +7786,7 @@
   },
   {
     "Code": "007340",
+    "Name": "DN오토모티브",
     "Market": "KOSPI",
     "EntryDate": "2026-08-14",
     "ExitDate": "2026-08-19",
@@ -7281,6 +7801,7 @@
   },
   {
     "Code": "089860",
+    "Name": "롯데렌탈",
     "Market": "KOSPI",
     "EntryDate": "2026-07-16",
     "ExitDate": "2026-09-09",
