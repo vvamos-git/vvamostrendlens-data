@@ -1,21 +1,20 @@
 {
   "meta": {
-    "asof": "2026-10-01",
-    "generated_at": "2026-10-01T21:27:21+09:00",
+    "asof": "2026-10-06",
+    "generated_at": "2026-10-06T16:30:30+09:00",
     "today_signals": 0,
     "universe_count": 2570,
     "display_count": 8,
     "fresh": true,
     "source": "FinanceData/marcap + Naver KRX dayCandle recovery",
-    "history_latest": "2026-09-29",
-    "history_effective_latest": "2026-10-01",
+    "history_latest": "2026-10-02",
+    "history_effective_latest": "2026-10-06",
     "gap_dates": [
-      "2026-09-30",
-      "2026-10-01"
+      "2026-10-06"
     ],
     "gap_note": "marcap 이후 날짜는 Naver KRX dayCandle 정규장 일봉으로 복구. 시총은 종목목록의 시총/가격으로 추정한 주식수×정규장 종가 근사치.",
     "validation": {
-      "gap_coverage": 0.9513299377475948,
+      "gap_coverage": 0.9501980758347481,
       "failed_chart_codes": 0,
       "market_counts": {
         "KOSDAQ": 1767,
@@ -27,20 +26,10 @@
   "market": {
     "KOSPI": {
       "ok": false,
-      "value": 5720454585000000.0,
-      "ma120": 5876476281106622.0,
-      "gapPct": -2.655021285600101,
+      "value": 5709610654299362.0,
+      "ma120": 5894393273558124.0,
+      "gapPct": -3.1348878617869835,
       "series": [
-        {
-          "date": "2026-04-07",
-          "value": 4526464918181477.0,
-          "ma120": 3868462720239472.0
-        },
-        {
-          "date": "2026-04-08",
-          "value": 4836941534208473.0,
-          "ma120": 3884163659653455.0
-        },
         {
           "date": "2026-04-09",
           "value": 4759726731566801.0,
@@ -623,32 +612,32 @@
         },
         {
           "date": "2026-09-30",
-          "value": 5640795148104618.0,
-          "ma120": 5866219658989260.0
+          "value": 5638323010042142.0,
+          "ma120": 5866199057838739.0
         },
         {
           "date": "2026-10-01",
-          "value": 5720454585000000.0,
-          "ma120": 5876476281106622.0
+          "value": 5752050213391245.0,
+          "ma120": 5876718976859362.0
+        },
+        {
+          "date": "2026-10-02",
+          "value": 5774711401941939.0,
+          "ma120": 5887121030890699.0
+        },
+        {
+          "date": "2026-10-06",
+          "value": 5709610654299362.0,
+          "ma120": 5894393273558124.0
         }
       ]
     },
     "KOSDAQ": {
       "ok": false,
-      "value": 492706837000000.0,
-      "ma120": 525179196617501.44,
-      "gapPct": -6.183100897111826,
+      "value": 508695971613915.4,
+      "ma120": 523976415682302.4,
+      "gapPct": -2.916246535350142,
       "series": [
-        {
-          "date": "2026-04-07",
-          "value": 573940668475069.0,
-          "ma120": 540621927737005.0
-        },
-        {
-          "date": "2026-04-08",
-          "value": 603114478851788.0,
-          "ma120": 541871169320353.4
-        },
         {
           "date": "2026-04-09",
           "value": 595710827010340.0,
@@ -1231,179 +1220,140 @@
         },
         {
           "date": "2026-09-30",
-          "value": 472506245131906.3,
-          "ma120": 525903945481188.9
+          "value": 481898209585977.0,
+          "ma120": 525982211851639.44
         },
         {
           "date": "2026-10-01",
-          "value": 492706837000000.0,
-          "ma120": 525179196617501.44
+          "value": 503937216515711.0,
+          "ma120": 525351049483916.4
+        },
+        {
+          "date": "2026-10-02",
+          "value": 503403119519271.0,
+          "ma120": 524763236575951.3
+        },
+        {
+          "date": "2026-10-06",
+          "value": 508695971613915.4,
+          "ma120": 523976415682302.4
         }
       ]
     }
   },
   "rows": [
     {
-      "date": "2026-10-01",
-      "code": "003160",
-      "name": "디아이",
-      "market": "KOSPI",
-      "close": 42500.0,
+      "date": "2026-10-06",
+      "code": "036930",
+      "name": "주성엔지니어링",
+      "market": "KOSDAQ",
+      "close": 279000.0,
       "entryPrice": null,
-      "cap": 1202750000000.0,
-      "ret120": 51.785714285714256,
-      "rs": 95.83802024746907,
-      "vol": 4.024679670438491,
-      "clv": 1.0,
+      "cap": 12968232000000.0,
+      "ret120": 310.29411764705895,
+      "rs": 99.87966305655837,
+      "vol": 2.3767163854691677,
+      "clv": 0.9240506329113924,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": true,
+      "signal": false,
+      "passCount": 4,
+      "failed": [
+        "시장필터",
+        "거래량"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "code": "131290",
+      "name": "티에스이",
+      "market": "KOSDAQ",
+      "close": 310500.0,
+      "entryPrice": null,
+      "cap": 3434572999999.9995,
+      "ret120": 170.23498694516962,
+      "rs": 99.338146811071,
+      "vol": 0.7205298887030074,
+      "clv": 0.8653846153846154,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": true,
+      "signal": false,
+      "passCount": 4,
+      "failed": [
+        "시장필터",
+        "거래량"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "code": "053800",
+      "name": "안랩",
+      "market": "KOSDAQ",
+      "close": 86700.0,
+      "entryPrice": null,
+      "cap": 964668000000.0,
+      "ret120": 41.89852700490992,
+      "rs": 94.7653429602888,
+      "vol": 8.141397189239902,
+      "clv": 0.3118279569892473,
       "marketOK": false,
       "capOK": true,
       "rsOK": true,
       "breakout": true,
       "volOK": true,
-      "clvOK": true,
+      "clvOK": false,
       "signal": false,
-      "passCount": 5,
+      "passCount": 4,
       "failed": [
-        "시장필터"
+        "시장필터",
+        "종가위치"
       ]
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-06",
+      "code": "041960",
+      "name": "코미팜",
+      "market": "KOSDAQ",
+      "close": 10480.0,
+      "entryPrice": null,
+      "cap": 781998000000.0,
+      "ret120": 33.33333333333326,
+      "rs": 93.38146811070999,
+      "vol": 1.824832953430435,
+      "clv": 0.8072289156626506,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": true,
+      "signal": false,
+      "passCount": 4,
+      "failed": [
+        "시장필터",
+        "거래량"
+      ]
+    },
+    {
+      "date": "2026-10-06",
       "code": "222800",
       "name": "심텍",
       "market": "KOSDAQ",
-      "close": 160000.0,
+      "close": 173400.0,
       "entryPrice": null,
-      "cap": 6157524000000.0,
-      "ret120": 193.57798165137575,
-      "rs": 99.51980792316927,
-      "vol": 1.2149414257813098,
-      "clv": 1.0,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": true,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "거래량"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "code": "031980",
-      "name": "피에스케이홀딩스",
-      "market": "KOSDAQ",
-      "close": 194000.0,
-      "entryPrice": null,
-      "cap": 4183104000000.0,
-      "ret120": 110.64060803474484,
-      "rs": 98.43937575030012,
-      "vol": 1.1714317438909787,
-      "clv": 0.9817073170731707,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": true,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "거래량"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "code": "096530",
-      "name": "씨젠",
-      "market": "KOSDAQ",
-      "close": 37050.0,
-      "entryPrice": null,
-      "cap": 1731509000000.0,
-      "ret120": 67.64705882352924,
-      "rs": 96.75870348139256,
-      "vol": 1.9237222393950921,
-      "clv": 0.9019607843137255,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": true,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "거래량"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "code": "053800",
-      "name": "안랩",
-      "market": "KOSDAQ",
-      "close": 77700.0,
-      "entryPrice": null,
-      "cap": 864529000000.0,
-      "ret120": 30.150753768844176,
-      "rs": 92.55702280912365,
-      "vol": 0.7904516447942558,
-      "clv": 0.9333333333333333,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": true,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "거래량"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "code": "064290",
-      "name": "인텍플러스",
-      "market": "KOSDAQ",
-      "close": 58000.0,
-      "entryPrice": null,
-      "cap": 751539000000.0,
-      "ret120": 167.28110599078326,
-      "rs": 99.21968787515006,
-      "vol": 0.7131016311315126,
-      "clv": 0.84375,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": true,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "거래량"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "code": "036540",
-      "name": "SFA반도체",
-      "market": "KOSDAQ",
-      "close": 11120.0,
-      "entryPrice": null,
-      "cap": 1828798000000.0,
-      "ret120": 75.94936708860772,
-      "rs": 97.47899159663865,
-      "vol": 2.08185153551462,
-      "clv": 0.39166666666666666,
+      "cap": 6673216000000.0,
+      "ret120": 154.99999999999972,
+      "rs": 99.03730445246691,
+      "vol": 1.3171603778091012,
+      "clv": 0.3235294117647059,
       "marketOK": false,
       "capOK": true,
       "rsOK": true,
@@ -1419,17 +1369,69 @@
       ]
     },
     {
-      "date": "2026-10-01",
-      "code": "252990",
-      "name": "샘씨엔에스",
+      "date": "2026-10-06",
+      "code": "031980",
+      "name": "피에스케이홀딩스",
       "market": "KOSDAQ",
-      "close": 20300.0,
+      "close": 196000.0,
       "entryPrice": null,
-      "cap": 1222423000000.0,
-      "ret120": 125.5555555555556,
-      "rs": 98.79951980792316,
-      "vol": 1.0085989730977103,
-      "clv": 0.6052631578947368,
+      "cap": 4226229000000.0,
+      "ret120": 82.49534450651772,
+      "rs": 97.89410348977135,
+      "vol": 1.0807052686831908,
+      "clv": 0.4587628865979381,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": false,
+      "signal": false,
+      "passCount": 3,
+      "failed": [
+        "시장필터",
+        "거래량",
+        "종가위치"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "code": "036540",
+      "name": "SFA반도체",
+      "market": "KOSDAQ",
+      "close": 11470.0,
+      "entryPrice": null,
+      "cap": 1886359000000.0,
+      "ret120": 66.4731494920175,
+      "rs": 97.23225030084237,
+      "vol": 1.2413938693488167,
+      "clv": 0.14285714285714285,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": false,
+      "signal": false,
+      "passCount": 3,
+      "failed": [
+        "시장필터",
+        "거래량",
+        "종가위치"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "code": "064290",
+      "name": "인텍플러스",
+      "market": "KOSDAQ",
+      "close": 60400.0,
+      "entryPrice": null,
+      "cap": 785102000000.0,
+      "ret120": 163.1808278867101,
+      "rs": 99.27797833935018,
+      "vol": 0.47638400419233057,
+      "clv": 0.23076923076923078,
       "marketOK": false,
       "capOK": true,
       "rsOK": true,
