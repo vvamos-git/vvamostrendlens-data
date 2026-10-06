@@ -1,17 +1,17 @@
 {
   "meta": {
     "asof": "2026-10-06",
-    "generated_at": "2026-10-06T17:50:32+09:00",
+    "generated_at": "2026-10-06T17:58:03+09:00",
     "today_signals": 0,
     "universe_count": 2729,
-    "display_count": 9,
+    "display_count": 8,
     "fresh": true,
     "source": "KRX Data Marketplace; FinanceData/marcap prior market-cap history",
     "history_latest": "2026-10-02",
     "history_effective_latest": "2026-10-06",
     "gap_note": "RS=KRX 전종목 수정수익률; 후보 OHLCV/거래량/252일 신고가=KRX 개별종목 시세.",
     "validation": {
-      "prefilter_count": 19,
+      "prefilter_count": 14,
       "verified_failures": 0,
       "verified_failure_codes": []
     }
@@ -1245,7 +1245,7 @@
       "cap": 12944992198500.0,
       "ret120": 309.55882352941177,
       "rs": 99.83230855226384,
-      "vol": 2.404793185035327,
+      "vol": 2.406272518259497,
       "clv": 0.972972972972973,
       "marketOK": false,
       "capOK": true,
@@ -1259,35 +1259,8 @@
         "시장필터",
         "거래량"
       ],
-      "_krxVolume": 3308081.0,
+      "_krxVolume": 3310116.0,
       "_krxPrev20AvgVolume": 1375619.75
-    },
-    {
-      "date": "2026-10-06",
-      "code": "131290",
-      "name": "티에스이",
-      "market": "KOSDAQ",
-      "close": 313500.0,
-      "entryPrice": null,
-      "cap": 3467757991500.0,
-      "ret120": 172.84595300261097,
-      "rs": 99.21743991056456,
-      "vol": 0.7287116984103195,
-      "clv": 0.9807692307692307,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": true,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "거래량"
-      ],
-      "_krxVolume": 101623.0,
-      "_krxPrev20AvgVolume": 139455.7
     },
     {
       "date": "2026-10-06",
@@ -1299,7 +1272,7 @@
       "cap": 990259034000.0,
       "ret120": 45.66284779050736,
       "rs": 94.6338736724427,
-      "vol": 8.232103719465993,
+      "vol": 8.241157358937917,
       "clv": 0.5591397849462365,
       "marketOK": false,
       "capOK": true,
@@ -1313,7 +1286,7 @@
         "시장필터",
         "종가위치"
       ],
-      "_krxVolume": 677398.0,
+      "_krxVolume": 678143.0,
       "_krxPrev20AvgVolume": 82287.35
     },
     {
@@ -1326,7 +1299,7 @@
       "cap": 778267836430.0,
       "ret120": 32.69720101781171,
       "rs": 92.90106204583566,
-      "vol": 1.8349394075196392,
+      "vol": 1.8378401784520646,
       "clv": 0.775,
       "marketOK": false,
       "capOK": true,
@@ -1340,7 +1313,7 @@
         "시장필터",
         "거래량"
       ],
-      "_krxVolume": 436473.0,
+      "_krxVolume": 437163.0,
       "_krxPrev20AvgVolume": 237867.8
     },
     {
@@ -1353,7 +1326,7 @@
       "cap": 703437958300.0,
       "ret120": 96.7153284671533,
       "rs": 98.26718837339295,
-      "vol": 0.7839493684535336,
+      "vol": 0.7872836972000274,
       "clv": 0.7941176470588235,
       "marketOK": false,
       "capOK": true,
@@ -1367,7 +1340,7 @@
         "시장필터",
         "거래량"
       ],
-      "_krxVolume": 299536.0,
+      "_krxVolume": 300810.0,
       "_krxPrev20AvgVolume": 382085.9
     },
     {
@@ -1380,7 +1353,7 @@
       "cap": 6734792050000.0,
       "ret120": 157.3529411764706,
       "rs": 99.04974846282839,
-      "vol": 1.328017395881673,
+      "vol": 1.3289712894834562,
       "clv": 0.4108527131782946,
       "marketOK": false,
       "capOK": true,
@@ -1395,7 +1368,7 @@
         "거래량",
         "종가위치"
       ],
-      "_krxVolume": 948093.0,
+      "_krxVolume": 948774.0,
       "_krxPrev20AvgVolume": 713916.1
     },
     {
@@ -1408,7 +1381,7 @@
       "cap": 4247791815000.0,
       "ret120": 83.42644320297951,
       "rs": 97.87590832867524,
-      "vol": 1.0826294004251562,
+      "vol": 1.0837992725242709,
       "clv": 0.5103092783505154,
       "marketOK": false,
       "capOK": true,
@@ -1423,7 +1396,7 @@
         "거래량",
         "종가위치"
       ],
-      "_krxVolume": 210997.0,
+      "_krxVolume": 211225.0,
       "_krxPrev20AvgVolume": 194893.1
     },
     {
@@ -1436,7 +1409,7 @@
       "cap": 1929119354190.0,
       "ret120": 70.24673439767778,
       "rs": 97.0374510899944,
-      "vol": 1.2656677532596659,
+      "vol": 1.2674239237616987,
       "clv": 0.36,
       "marketOK": false,
       "capOK": true,
@@ -1451,7 +1424,7 @@
         "거래량",
         "종가위치"
       ],
-      "_krxVolume": 9914636.0,
+      "_krxVolume": 9928393.0,
       "_krxPrev20AvgVolume": 7833521.85
     },
     {
