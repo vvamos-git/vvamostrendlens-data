@@ -1,14 +1,14 @@
 {
   "meta": {
-    "asof": "2026-10-07",
-    "generated_at": "2026-10-07T16:22:27+09:00",
+    "asof": "2026-10-08",
+    "generated_at": "2026-10-08T16:19:31+09:00",
     "today_signals": 0,
     "universe_count": 2728,
-    "display_count": 8,
+    "display_count": 5,
     "fresh": true,
     "source": "KRX Data Marketplace; FinanceData/marcap prior market-cap history",
     "history_latest": "2026-10-02",
-    "history_effective_latest": "2026-10-07",
+    "history_effective_latest": "2026-10-08",
     "gap_note": "RS=KRX 전종목 수정수익률; 후보 OHLCV/거래량/252일 신고가=KRX 개별종목 시세.",
     "volume_status": "16:05_snapshot",
     "volume_note": "TrendLens 거래량 기준은 16:05 KRX 당일 누적거래량 스냅샷. 20:00 최종 거래량으로 재판정하지 않음.",
@@ -21,9 +21,9 @@
   "market": {
     "KOSPI": {
       "ok": false,
-      "value": 5612934025523264.0,
-      "ma120": 5893587634984990.0,
-      "gapPct": -4.762016395509838,
+      "value": 5467252001226152.0,
+      "ma120": 5892373618115846.0,
+      "gapPct": -7.2147770056989575,
       "series": [
         {
           "date": "2026-04-09",
@@ -621,17 +621,17 @@
           "ma120": 5887121030890699.0
         },
         {
-          "date": "2026-10-07",
-          "value": 5612934025523264.0,
-          "ma120": 5893587634984990.0
+          "date": "2026-10-08",
+          "value": 5467252001226152.0,
+          "ma120": 5892373618115846.0
         }
       ]
     },
     "KOSDAQ": {
       "ok": false,
-      "value": 506410607733245.0,
-      "ma120": 523957370983296.8,
-      "gapPct": -3.348891383496,
+      "value": 502785396236325.0,
+      "ma120": 523927160887489.1,
+      "gapPct": -4.035248834084437,
       "series": [
         {
           "date": "2026-04-09",
@@ -1229,52 +1229,26 @@
           "ma120": 524763236575951.3
         },
         {
-          "date": "2026-10-07",
-          "value": 506410607733245.0,
-          "ma120": 523957370983296.8
+          "date": "2026-10-08",
+          "value": 502785396236325.0,
+          "ma120": 523927160887489.1
         }
       ]
     }
   },
   "rows": [
     {
-      "date": "2026-10-07",
-      "code": "006120",
-      "name": "SK디스커버리",
-      "market": "KOSPI",
-      "close": 71900.0,
-      "entryPrice": null,
-      "cap": 1252048696900.0,
-      "ret120": 27.256637168141594,
-      "rs": 92.87234042553192,
-      "vol": 4.204616951532785,
-      "clv": 0.9230769230769231,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": true,
-      "clvOK": true,
-      "signal": false,
-      "passCount": 5,
-      "failed": [
-        "시장필터"
-      ],
-      "_krxVolume": 120958.0,
-      "_krxPrev20AvgVolume": 28767.9
-    },
-    {
-      "date": "2026-10-07",
-      "code": "031980",
-      "name": "피에스케이홀딩스",
+      "date": "2026-10-08",
+      "code": "041960",
+      "name": "코미팜",
       "market": "KOSDAQ",
-      "close": 204000.0,
+      "close": 11360.0,
       "entryPrice": null,
-      "cap": 4398728580000.0,
-      "ret120": 98.25072886297377,
-      "rs": 98.37807606263982,
-      "vol": 1.2440342439524634,
-      "clv": 0.7887323943661971,
+      "cap": 847662763360.0,
+      "ret120": 35.07728894173603,
+      "rs": 93.23266219239373,
+      "vol": 1.217724864943899,
+      "clv": 0.8082191780821918,
       "marketOK": false,
       "capOK": true,
       "rsOK": true,
@@ -1287,75 +1261,21 @@
         "시장필터",
         "거래량"
       ],
-      "_krxVolume": 239587.0,
-      "_krxPrev20AvgVolume": 192588.75
+      "_krxVolume": 318562.0,
+      "_krxPrev20AvgVolume": 261604.25
     },
     {
-      "date": "2026-10-07",
-      "code": "281820",
-      "name": "케이씨텍",
-      "market": "KOSPI",
-      "close": 123000.0,
-      "entryPrice": null,
-      "cap": 2435235303000.0,
-      "ret120": 159.7676874340021,
-      "rs": 99.14893617021276,
-      "vol": 5.1386910597570985,
-      "clv": 0.5680933852140078,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": true,
-      "clvOK": false,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "종가위치"
-      ],
-      "_krxVolume": 1086818.0,
-      "_krxPrev20AvgVolume": 211497.05
-    },
-    {
-      "date": "2026-10-07",
-      "code": "096530",
-      "name": "씨젠",
-      "market": "KOSDAQ",
-      "close": 38900.0,
-      "entryPrice": null,
-      "cap": 1817968237800.0,
-      "ret120": 66.59528907922912,
-      "rs": 96.97986577181209,
-      "vol": 3.394118922574267,
-      "clv": 0.45614035087719296,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": true,
-      "clvOK": false,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "종가위치"
-      ],
-      "_krxVolume": 923516.0,
-      "_krxPrev20AvgVolume": 272093.0
-    },
-    {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "code": "096770",
       "name": "SK이노베이션",
       "market": "KOSPI",
-      "close": 159600.0,
+      "close": 160900.0,
       "entryPrice": null,
-      "cap": 26980824964800.0,
-      "ret120": 28.70967741935484,
-      "rs": 93.08510638297872,
-      "vol": 0.952300779415399,
-      "clv": 0.6477272727272727,
+      "cap": 27200593589200.0,
+      "ret120": 31.454248366013072,
+      "rs": 93.93617021276596,
+      "vol": 1.1497770056195702,
+      "clv": 0.6153846153846154,
       "marketOK": false,
       "capOK": true,
       "rsOK": true,
@@ -1369,77 +1289,21 @@
         "거래량",
         "종가위치"
       ],
-      "_krxVolume": 958165.0,
-      "_krxPrev20AvgVolume": 1006157.95
+      "_krxVolume": 1140177.0,
+      "_krxPrev20AvgVolume": 991650.55
     },
     {
-      "date": "2026-10-07",
-      "code": "010950",
-      "name": "S-Oil",
-      "market": "KOSPI",
-      "close": 170600.0,
-      "entryPrice": null,
-      "cap": 19206624315200.0,
-      "ret120": 42.64214046822743,
-      "rs": 94.8936170212766,
-      "vol": 0.8877527625937723,
-      "clv": 0.7129629629629629,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": false,
-      "signal": false,
-      "passCount": 3,
-      "failed": [
-        "시장필터",
-        "거래량",
-        "종가위치"
-      ],
-      "_krxVolume": 374631.0,
-      "_krxPrev20AvgVolume": 421999.25
-    },
-    {
-      "date": "2026-10-07",
-      "code": "008930",
-      "name": "한미사이언스",
-      "market": "KOSPI",
-      "close": 58100.0,
-      "entryPrice": null,
-      "cap": 3973549055000.0,
-      "ret120": 47.64930114358323,
-      "rs": 95.31914893617022,
-      "vol": 0.5247943134889862,
-      "clv": 0.7083333333333334,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": false,
-      "signal": false,
-      "passCount": 3,
-      "failed": [
-        "시장필터",
-        "거래량",
-        "종가위치"
-      ],
-      "_krxVolume": 132333.0,
-      "_krxPrev20AvgVolume": 252161.65
-    },
-    {
-      "date": "2026-10-07",
-      "code": "041960",
-      "name": "코미팜",
+      "date": "2026-10-08",
+      "code": "031980",
+      "name": "피에스케이홀딩스",
       "market": "KOSDAQ",
-      "close": 11000.0,
+      "close": 209500.0,
       "entryPrice": null,
-      "cap": 820800211000.0,
-      "ret120": 29.87012987012987,
-      "rs": 92.5055928411633,
-      "vol": 2.9180579515961953,
-      "clv": 0.5714285714285714,
+      "cap": 4517321752500.0,
+      "ret120": 97.45523091423185,
+      "rs": 98.37807606263982,
+      "vol": 1.1234347777039646,
+      "clv": 0.4722222222222222,
       "marketOK": false,
       "capOK": true,
       "rsOK": true,
@@ -1453,8 +1317,64 @@
         "거래량",
         "종가위치"
       ],
-      "_krxVolume": 717611.0,
-      "_krxPrev20AvgVolume": 245920.75
+      "_krxVolume": 215109.0,
+      "_krxPrev20AvgVolume": 191474.4
+    },
+    {
+      "date": "2026-10-08",
+      "code": "281820",
+      "name": "케이씨텍",
+      "market": "KOSPI",
+      "close": 124000.0,
+      "entryPrice": null,
+      "cap": 2455033964000.0,
+      "ret120": 149.49698189134807,
+      "rs": 99.04255319148936,
+      "vol": 1.191361155597523,
+      "clv": 0.41333333333333333,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": false,
+      "signal": false,
+      "passCount": 3,
+      "failed": [
+        "시장필터",
+        "거래량",
+        "종가위치"
+      ],
+      "_krxVolume": 305705.0,
+      "_krxPrev20AvgVolume": 256601.45
+    },
+    {
+      "date": "2026-10-08",
+      "code": "064290",
+      "name": "인텍플러스",
+      "market": "KOSDAQ",
+      "close": 60600.0,
+      "entryPrice": null,
+      "cap": 787701706800.0,
+      "ret120": 147.34693877551018,
+      "rs": 99.04921700223713,
+      "vol": 0.512787192301487,
+      "clv": 0.62,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": false,
+      "signal": false,
+      "passCount": 3,
+      "failed": [
+        "시장필터",
+        "거래량",
+        "종가위치"
+      ],
+      "_krxVolume": 209929.0,
+      "_krxPrev20AvgVolume": 409388.15
     }
   ]
 }
