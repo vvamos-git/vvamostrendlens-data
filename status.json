@@ -1,8 +1,8 @@
 {
   "state": "success",
   "message": "KRX 기준 TrendLens 16:05 스캔 완료",
-  "checked_at": "2026-10-08T16:19:31+09:00",
-  "asof": "2026-10-08",
+  "checked_at": "2026-10-09T16:19:12+09:00",
+  "asof": "2026-10-09",
   "signals": 0,
   "source": "KRX Data Marketplace",
   "volume_status": "16:05_snapshot"
