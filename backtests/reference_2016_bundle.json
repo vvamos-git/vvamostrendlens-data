@@ -1,6 +1,6 @@
 {
   "meta": {
-    "GeneratedAt": "2026-10-19T02:46:11.487714+09:00",
+    "GeneratedAt": "2026-10-19T03:37:56.113467+09:00",
     "StrategyVersion": "reference_index120_tp24_third_ma20_2016",
     "StockSource": "FinanceData/marcap adjusted OHLC reconstruction",
     "IndexSource": "Yahoo Finance KOSPI ^KS11 / KOSDAQ ^KQ11 daily close",
