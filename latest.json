@@ -1,7 +1,7 @@
 {
   "meta": {
     "asof": "2026-10-19",
-    "generated_at": "2026-10-19T17:19:34+09:00",
+    "generated_at": "2026-10-19T17:21:46+09:00",
     "today_signals": 0,
     "universe_count": 2722,
     "display_count": 3,
@@ -14,8 +14,8 @@
     "volume_mode": "krx",
     "volume_status": "KRX_16_00_first_release_window",
     "volume_note": "KRX 16:00 1차 공개 후, 18:10 2차 공개 전 조회한 거래량으로 판정. NXT 미포함: 통합 거래량으로 해석하지 말 것.",
-    "volume_capture_started_at": "2026-10-19T17:20:15+09:00",
-    "volume_capture_finished_at": "2026-10-19T17:20:46+09:00",
+    "volume_capture_started_at": "2026-10-19T17:22:30+09:00",
+    "volume_capture_finished_at": "2026-10-19T17:22:56+09:00",
     "validation": {
       "prefilter_count": 4,
       "verified_failures": 0,
@@ -1290,7 +1290,7 @@
       "cap": 890320000000.0,
       "ret120": 63.926940639269404,
       "rs": 98.87892376681614,
-      "vol": 1.173656511335495,
+      "vol": 1.1736652188905181,
       "clv": 0.8783783783783784,
       "marketOK": false,
       "capOK": true,
@@ -1304,7 +1304,7 @@
         "시장필터",
         "거래량"
       ],
-      "_krxVolume": 134786.0,
+      "_krxVolume": 134787.0,
       "_krxPrev20AvgVolume": 114842.8,
       "_nxtMainVolume": null,
       "_nxtPrev20AvgVolume": null,
@@ -1321,7 +1321,7 @@
       "cap": 7671188978400.0,
       "ret120": 30.445246690734052,
       "rs": 97.12153518123668,
-      "vol": 0.8794788198089095,
+      "vol": 0.8794834571384385,
       "clv": 0.7291666666666666,
       "marketOK": false,
       "capOK": true,
@@ -1336,7 +1336,7 @@
         "거래량",
         "종가위치"
       ],
-      "_krxVolume": 189652.0,
+      "_krxVolume": 189653.0,
       "_krxPrev20AvgVolume": 215641.35,
       "_nxtMainVolume": null,
       "_nxtPrev20AvgVolume": null,
