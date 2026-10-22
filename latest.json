@@ -1,21 +1,21 @@
 {
   "meta": {
-    "asof": "2026-10-21",
-    "generated_at": "2026-10-21T17:18:05+09:00",
+    "asof": "2026-10-22",
+    "generated_at": "2026-10-22T16:58:59+09:00",
     "today_signals": 0,
     "universe_count": 2722,
     "display_count": 0,
     "fresh": true,
     "source": "KRX Data Marketplace; official KOSPI/KOSDAQ index MA120 market gate",
     "market_filter": "KOSPI/KOSDAQ official index close >= 120-trading-day SMA",
-    "history_latest": "2026-10-19",
-    "history_effective_latest": "2026-10-21",
+    "history_latest": "2026-10-20",
+    "history_effective_latest": "2026-10-22",
     "gap_note": "RS=KRX 전종목 수정수익률; 후보 OHLCV/거래량/252일 신고가=KRX 개별종목 시세.",
     "volume_mode": "krx",
     "volume_status": "KRX_16_00_first_release_window",
     "volume_note": "KRX 16:00 1차 공개 후, 18:10 2차 공개 전 조회한 거래량으로 판정. NXT 미포함: 통합 거래량으로 해석하지 말 것.",
-    "volume_capture_started_at": "2026-10-21T17:18:46+09:00",
-    "volume_capture_finished_at": "2026-10-21T17:19:04+09:00",
+    "volume_capture_started_at": "2026-10-22T16:59:47+09:00",
+    "volume_capture_finished_at": "2026-10-22T17:00:06+09:00",
     "validation": {
       "prefilter_count": 2,
       "verified_failures": 0,
@@ -25,15 +25,10 @@
   "market": {
     "KOSPI": {
       "ok": false,
-      "value": 5735.66,
-      "ma120": 7172.62125,
-      "gapPct": -20.033976421102683,
+      "value": 5533.77,
+      "ma120": 7164.770916666666,
+      "gapPct": -22.764173978998226,
       "series": [
-        {
-          "date": "2026-04-23",
-          "value": 6475.81,
-          "ma120": null
-        },
         {
           "date": "2026-04-24",
           "value": 6475.63,
@@ -628,24 +623,24 @@
           "date": "2026-10-21",
           "value": 5735.66,
           "ma120": 7172.62125
+        },
+        {
+          "date": "2026-10-22",
+          "value": 5533.77,
+          "ma120": 7164.770916666666
         }
       ],
       "source": "KRX pykrx",
-      "asof": "2026-10-21",
+      "asof": "2026-10-22",
       "metric": "official_index_close",
       "maDays": 120
     },
     "KOSDAQ": {
       "ok": false,
-      "value": 792.76,
-      "ma120": 912.7739166666667,
-      "gapPct": -13.14826316520329,
+      "value": 764.1,
+      "ma120": 909.3555,
+      "gapPct": -15.973455925652836,
       "series": [
-        {
-          "date": "2026-04-23",
-          "value": 1174.31,
-          "ma120": null
-        },
         {
           "date": "2026-04-24",
           "value": 1203.84,
@@ -1240,10 +1235,15 @@
           "date": "2026-10-21",
           "value": 792.76,
           "ma120": 912.7739166666667
+        },
+        {
+          "date": "2026-10-22",
+          "value": 764.1,
+          "ma120": 909.3555
         }
       ],
       "source": "KRX pykrx",
-      "asof": "2026-10-21",
+      "asof": "2026-10-22",
       "metric": "official_index_close",
       "maDays": 120
     }
