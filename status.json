@@ -1,12 +1,12 @@
 {
   "state": "success",
   "message": "KRX 16:00 1차 공개 구간 거래량 기준 스캔 완료",
-  "checked_at": "2026-10-28T17:28:16+09:00",
-  "asof": "2026-10-28",
+  "checked_at": "2026-10-29T17:30:01+09:00",
+  "asof": "2026-10-29",
   "signals": 0,
   "source": "KRX Data Marketplace",
   "volume_status": "KRX_16_00_first_release_window",
   "volume_mode": "krx",
-  "volume_capture_started_at": "2026-10-28T17:27:41+09:00",
-  "volume_capture_finished_at": "2026-10-28T17:28:16+09:00"
+  "volume_capture_started_at": "2026-10-29T17:29:10+09:00",
+  "volume_capture_finished_at": "2026-10-29T17:30:01+09:00"
 }
