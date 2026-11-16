@@ -1,23 +1,23 @@
 {
   "meta": {
-    "asof": "2026-11-13",
-    "generated_at": "2026-11-13T16:26:35+09:00",
+    "asof": "2026-11-16",
+    "generated_at": "2026-11-16T17:37:26+09:00",
     "today_signals": 0,
-    "universe_count": 2721,
-    "display_count": 4,
+    "universe_count": 2722,
+    "display_count": 1,
     "fresh": true,
     "source": "KRX Data Marketplace; official KOSPI/KOSDAQ index MA120 market gate",
     "market_filter": "KOSPI/KOSDAQ official index close >= 120-trading-day SMA",
-    "history_latest": "2026-11-11",
-    "history_effective_latest": "2026-11-13",
+    "history_latest": "2026-11-12",
+    "history_effective_latest": "2026-11-16",
     "gap_note": "RS=KRX 전종목 수정수익률; 후보 OHLCV/거래량/252일 신고가=KRX 개별종목 시세.",
     "volume_mode": "krx",
     "volume_status": "KRX_16_00_first_release_window",
     "volume_note": "KRX 16:00 1차 공개 후, 18:10 2차 공개 전 조회한 거래량으로 판정. NXT 미포함: 통합 거래량으로 해석하지 말 것.",
-    "volume_capture_started_at": "2026-11-13T16:27:25+09:00",
-    "volume_capture_finished_at": "2026-11-13T16:28:37+09:00",
+    "volume_capture_started_at": "2026-11-16T17:38:06+09:00",
+    "volume_capture_finished_at": "2026-11-16T17:38:44+09:00",
     "validation": {
-      "prefilter_count": 9,
+      "prefilter_count": 7,
       "verified_failures": 0,
       "verified_failure_codes": []
     }
@@ -25,15 +25,10 @@
   "market": {
     "KOSPI": {
       "ok": false,
-      "value": 5290.53,
-      "ma120": 6934.254,
-      "gapPct": -23.70441002016944,
+      "value": 5100.5,
+      "ma120": 6916.683583333333,
+      "gapPct": -26.25801168221239,
       "series": [
-        {
-          "date": "2026-05-20",
-          "value": 7208.95,
-          "ma120": null
-        },
         {
           "date": "2026-05-21",
           "value": 7815.59,
@@ -628,24 +623,24 @@
           "date": "2026-11-13",
           "value": 5290.53,
           "ma120": 6934.254
+        },
+        {
+          "date": "2026-11-16",
+          "value": 5100.5,
+          "ma120": 6916.683583333333
         }
       ],
       "source": "KRX pykrx",
-      "asof": "2026-11-13",
+      "asof": "2026-11-16",
       "metric": "official_index_close",
       "maDays": 120
     },
     "KOSDAQ": {
       "ok": false,
-      "value": 699.66,
-      "ma120": 845.91325,
-      "gapPct": -17.28939108117765,
+      "value": 665.65,
+      "ma120": 842.6597500000001,
+      "gapPct": -21.006076295918984,
       "series": [
-        {
-          "date": "2026-05-20",
-          "value": 1056.07,
-          "ma120": null
-        },
         {
           "date": "2026-05-21",
           "value": 1105.97,
@@ -1240,57 +1235,31 @@
           "date": "2026-11-13",
           "value": 699.66,
           "ma120": 845.91325
+        },
+        {
+          "date": "2026-11-16",
+          "value": 665.65,
+          "ma120": 842.6597500000001
         }
       ],
       "source": "KRX pykrx",
-      "asof": "2026-11-13",
+      "asof": "2026-11-16",
       "metric": "official_index_close",
       "maDays": 120
     }
   },
   "rows": [
     {
-      "date": "2026-11-13",
-      "code": "028050",
-      "name": "삼성EA",
+      "date": "2026-11-16",
+      "code": "089860",
+      "name": "롯데렌탈",
       "market": "KOSPI",
-      "close": 68800.0,
+      "close": 58500.0,
       "entryPrice": null,
-      "cap": 13484800000000.0,
-      "ret120": 39.69543147208121,
-      "rs": 98.39400428265525,
-      "vol": 0.8289798084233504,
-      "clv": 0.75,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": true,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "거래량"
-      ],
-      "_krxVolume": 3070494.0,
-      "_krxPrev20AvgVolume": 3703943.05,
-      "_nxtMainVolume": null,
-      "_nxtPrev20AvgVolume": null,
-      "_combinedVolume": null,
-      "_combinedPrev20AvgVolume": null
-    },
-    {
-      "date": "2026-11-13",
-      "code": "012750",
-      "name": "에스원",
-      "market": "KOSPI",
-      "close": 101200.0,
-      "entryPrice": null,
-      "cap": 3845516813600.0,
-      "ret120": 41.93548387096775,
-      "rs": 98.39400428265525,
-      "vol": 0.7475677656896766,
+      "cap": 2124099198000.0,
+      "ret120": 86.00953895071541,
+      "rs": 99.3576017130621,
+      "vol": 0.5367847941858889,
       "clv": 1.0,
       "marketOK": false,
       "capOK": true,
@@ -1304,71 +1273,8 @@
         "시장필터",
         "거래량"
       ],
-      "_krxVolume": 87601.0,
-      "_krxPrev20AvgVolume": 117181.35,
-      "_nxtMainVolume": null,
-      "_nxtPrev20AvgVolume": null,
-      "_combinedVolume": null,
-      "_combinedPrev20AvgVolume": null
-    },
-    {
-      "date": "2026-11-13",
-      "code": "006120",
-      "name": "SK디스커버리",
-      "market": "KOSPI",
-      "close": 72400.0,
-      "entryPrice": null,
-      "cap": 1260755572400.0,
-      "ret120": 40.03868471953578,
-      "rs": 98.39400428265525,
-      "vol": 1.3085944031300079,
-      "clv": 0.88,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": true,
-      "signal": false,
-      "passCount": 4,
-      "failed": [
-        "시장필터",
-        "거래량"
-      ],
-      "_krxVolume": 50872.0,
-      "_krxPrev20AvgVolume": 38875.3,
-      "_nxtMainVolume": null,
-      "_nxtPrev20AvgVolume": null,
-      "_combinedVolume": null,
-      "_combinedPrev20AvgVolume": null
-    },
-    {
-      "date": "2026-11-13",
-      "code": "425420",
-      "name": "티에프이",
-      "market": "KOSDAQ",
-      "close": 90800.0,
-      "entryPrice": null,
-      "cap": 1121124034800.0,
-      "ret120": 61.565836298932375,
-      "rs": 98.88080581980974,
-      "vol": 0.7669378984156497,
-      "clv": 0.6415094339622641,
-      "marketOK": false,
-      "capOK": true,
-      "rsOK": true,
-      "breakout": true,
-      "volOK": false,
-      "clvOK": false,
-      "signal": false,
-      "passCount": 3,
-      "failed": [
-        "시장필터",
-        "거래량",
-        "종가위치"
-      ],
-      "_krxVolume": 196010.0,
-      "_krxPrev20AvgVolume": 255574.8,
+      "_krxVolume": 143391.0,
+      "_krxPrev20AvgVolume": 267129.4,
       "_nxtMainVolume": null,
       "_nxtPrev20AvgVolume": null,
       "_combinedVolume": null,
