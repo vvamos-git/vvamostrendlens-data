@@ -1,23 +1,23 @@
 {
   "meta": {
-    "asof": "2026-11-16",
-    "generated_at": "2026-11-16T17:37:26+09:00",
+    "asof": "2026-11-19",
+    "generated_at": "2026-11-19T13:12:59+09:00",
     "today_signals": 0,
-    "universe_count": 2722,
-    "display_count": 1,
+    "universe_count": 2721,
+    "display_count": 5,
     "fresh": true,
     "source": "KRX Data Marketplace; official KOSPI/KOSDAQ index MA120 market gate",
     "market_filter": "KOSPI/KOSDAQ official index close >= 120-trading-day SMA",
-    "history_latest": "2026-11-12",
-    "history_effective_latest": "2026-11-16",
+    "history_latest": "2026-11-17",
+    "history_effective_latest": "2026-11-19",
     "gap_note": "RS=KRX 전종목 수정수익률; 후보 OHLCV/거래량/252일 신고가=KRX 개별종목 시세.",
     "volume_mode": "krx",
-    "volume_status": "KRX_16_00_first_release_window",
-    "volume_note": "KRX 16:00 1차 공개 후, 18:10 2차 공개 전 조회한 거래량으로 판정. NXT 미포함: 통합 거래량으로 해석하지 말 것.",
-    "volume_capture_started_at": "2026-11-16T17:38:06+09:00",
-    "volume_capture_finished_at": "2026-11-16T17:38:44+09:00",
+    "volume_status": "KRX_BEFORE_16_00_RELEASE",
+    "volume_note": "16:00 1차 공개 전 조회한 KRX 거래량. 정규장 확정 거래량으로 해석하지 말 것. NXT 미포함.",
+    "volume_capture_started_at": "2026-11-19T13:13:28+09:00",
+    "volume_capture_finished_at": "2026-11-19T13:13:58+09:00",
     "validation": {
-      "prefilter_count": 7,
+      "prefilter_count": 5,
       "verified_failures": 0,
       "verified_failure_codes": []
     }
@@ -25,25 +25,10 @@
   "market": {
     "KOSPI": {
       "ok": false,
-      "value": 5100.5,
-      "ma120": 6916.683583333333,
-      "gapPct": -26.25801168221239,
+      "value": 5055.14,
+      "ma120": 6844.852333333333,
+      "gapPct": -26.146836281883257,
       "series": [
-        {
-          "date": "2026-05-21",
-          "value": 7815.59,
-          "ma120": null
-        },
-        {
-          "date": "2026-05-22",
-          "value": 7847.71,
-          "ma120": null
-        },
-        {
-          "date": "2026-05-26",
-          "value": 8047.51,
-          "ma120": null
-        },
         {
           "date": "2026-05-27",
           "value": 8228.7,
@@ -317,12 +302,12 @@
         {
           "date": "2026-08-13",
           "value": 6813.34,
-          "ma120": 6830.4565
+          "ma120": null
         },
         {
           "date": "2026-08-14",
           "value": 6977.94,
-          "ma120": 6841.2955833333335
+          "ma120": null
         },
         {
           "date": "2026-08-18",
@@ -628,34 +613,34 @@
           "date": "2026-11-16",
           "value": 5100.5,
           "ma120": 6916.683583333333
+        },
+        {
+          "date": "2026-11-17",
+          "value": 4968.48,
+          "ma120": 6892.957666666667
+        },
+        {
+          "date": "2026-11-18",
+          "value": 5067.44,
+          "ma120": 6869.788750000001
+        },
+        {
+          "date": "2026-11-19",
+          "value": 5055.14,
+          "ma120": 6844.852333333333
         }
       ],
       "source": "KRX pykrx",
-      "asof": "2026-11-16",
+      "asof": "2026-11-19",
       "metric": "official_index_close",
       "maDays": 120
     },
     "KOSDAQ": {
       "ok": false,
-      "value": 665.65,
-      "ma120": 842.6597500000001,
-      "gapPct": -21.006076295918984,
+      "value": 659.47,
+      "ma120": 830.4324166666668,
+      "gapPct": -20.587155948572576,
       "series": [
-        {
-          "date": "2026-05-21",
-          "value": 1105.97,
-          "ma120": null
-        },
-        {
-          "date": "2026-05-22",
-          "value": 1161.13,
-          "ma120": null
-        },
-        {
-          "date": "2026-05-26",
-          "value": 1172.52,
-          "ma120": null
-        },
         {
           "date": "2026-05-27",
           "value": 1133.13,
@@ -929,12 +914,12 @@
         {
           "date": "2026-08-13",
           "value": 861.37,
-          "ma120": 1021.36675
+          "ma120": null
         },
         {
           "date": "2026-08-14",
           "value": 864.65,
-          "ma120": 1018.8995833333335
+          "ma120": null
         },
         {
           "date": "2026-08-18",
@@ -1240,26 +1225,72 @@
           "date": "2026-11-16",
           "value": 665.65,
           "ma120": 842.6597500000001
+        },
+        {
+          "date": "2026-11-17",
+          "value": 650.06,
+          "ma120": 838.8605000000001
+        },
+        {
+          "date": "2026-11-18",
+          "value": 662.81,
+          "ma120": 834.7078333333334
+        },
+        {
+          "date": "2026-11-19",
+          "value": 659.47,
+          "ma120": 830.4324166666668
         }
       ],
       "source": "KRX pykrx",
-      "asof": "2026-11-16",
+      "asof": "2026-11-19",
       "metric": "official_index_close",
       "maDays": 120
     }
   },
   "rows": [
     {
-      "date": "2026-11-16",
+      "date": "2026-11-19",
+      "code": "012750",
+      "name": "에스원",
+      "market": "KOSPI",
+      "close": 106600.0,
+      "entryPrice": null,
+      "cap": 4050712374800.0,
+      "ret120": 54.49275362318842,
+      "rs": 98.7152034261242,
+      "vol": 0.5970422782514949,
+      "clv": 0.7674418604651163,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": true,
+      "signal": false,
+      "passCount": 4,
+      "failed": [
+        "시장필터",
+        "거래량"
+      ],
+      "_krxVolume": 58315.0,
+      "_krxPrev20AvgVolume": 97673.15,
+      "_nxtMainVolume": null,
+      "_nxtPrev20AvgVolume": null,
+      "_combinedVolume": null,
+      "_combinedPrev20AvgVolume": null
+    },
+    {
+      "date": "2026-11-19",
       "code": "089860",
       "name": "롯데렌탈",
       "market": "KOSPI",
-      "close": 58500.0,
+      "close": 58700.0,
       "entryPrice": null,
-      "cap": 2124099198000.0,
-      "ret120": 86.00953895071541,
-      "rs": 99.3576017130621,
-      "vol": 0.5367847941858889,
+      "cap": 2131361075600.0,
+      "ret120": 86.34920634920636,
+      "rs": 99.46466809421841,
+      "vol": 0.11313208983775003,
       "clv": 1.0,
       "marketOK": false,
       "capOK": true,
@@ -1273,8 +1304,102 @@
         "시장필터",
         "거래량"
       ],
-      "_krxVolume": 143391.0,
-      "_krxPrev20AvgVolume": 267129.4,
+      "_krxVolume": 30014.0,
+      "_krxPrev20AvgVolume": 265300.5,
+      "_nxtMainVolume": null,
+      "_nxtPrev20AvgVolume": null,
+      "_combinedVolume": null,
+      "_combinedPrev20AvgVolume": null
+    },
+    {
+      "date": "2026-11-19",
+      "code": "020560",
+      "name": "아시아나항공",
+      "market": "KOSPI",
+      "close": 8720.0,
+      "entryPrice": null,
+      "cap": 1796238999920.0,
+      "ret120": 15.03957783641161,
+      "rs": 95.18201284796574,
+      "vol": 0.6212997104297856,
+      "clv": 0.8235294117647058,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": true,
+      "signal": false,
+      "passCount": 4,
+      "failed": [
+        "시장필터",
+        "거래량"
+      ],
+      "_krxVolume": 97485.0,
+      "_krxPrev20AvgVolume": 156904.95,
+      "_nxtMainVolume": null,
+      "_nxtPrev20AvgVolume": null,
+      "_combinedVolume": null,
+      "_combinedPrev20AvgVolume": null
+    },
+    {
+      "date": "2026-11-19",
+      "code": "089590",
+      "name": "제주항공",
+      "market": "KOSPI",
+      "close": 8850.0,
+      "entryPrice": null,
+      "cap": 713672717250.0,
+      "ret120": 74.55621301775149,
+      "rs": 99.14346895074947,
+      "vol": 6.087932658006819,
+      "clv": 0.6363636363636364,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": true,
+      "clvOK": false,
+      "signal": false,
+      "passCount": 4,
+      "failed": [
+        "시장필터",
+        "종가위치"
+      ],
+      "_krxVolume": 7256883.0,
+      "_krxPrev20AvgVolume": 1192011.05,
+      "_nxtMainVolume": null,
+      "_nxtPrev20AvgVolume": null,
+      "_combinedVolume": null,
+      "_combinedPrev20AvgVolume": null
+    },
+    {
+      "date": "2026-11-19",
+      "code": "003490",
+      "name": "대한항공",
+      "market": "KOSPI",
+      "close": 32550.0,
+      "entryPrice": null,
+      "cap": 11985580822950.0,
+      "ret120": 18.579234972677593,
+      "rs": 96.1456102783726,
+      "vol": 0.6073258157416032,
+      "clv": 0.6923076923076923,
+      "marketOK": false,
+      "capOK": true,
+      "rsOK": true,
+      "breakout": true,
+      "volOK": false,
+      "clvOK": false,
+      "signal": false,
+      "passCount": 3,
+      "failed": [
+        "시장필터",
+        "거래량",
+        "종가위치"
+      ],
+      "_krxVolume": 1678135.0,
+      "_krxPrev20AvgVolume": 2763154.4,
       "_nxtMainVolume": null,
       "_nxtPrev20AvgVolume": null,
       "_combinedVolume": null,
