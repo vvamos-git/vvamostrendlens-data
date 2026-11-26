@@ -1,12 +1,12 @@
 {
   "state": "success",
   "message": "KRX 스캔 완료 (KRX_POST_18_10_LATEST)",
-  "checked_at": "2026-11-25T18:32:48+09:00",
-  "asof": "2026-11-25",
+  "checked_at": "2026-11-26T18:28:42+09:00",
+  "asof": "2026-11-26",
   "signals": 0,
   "source": "KRX Data Marketplace",
   "volume_status": "KRX_POST_18_10_LATEST",
   "volume_mode": "krx",
-  "volume_capture_started_at": "2026-11-25T18:32:23+09:00",
-  "volume_capture_finished_at": "2026-11-25T18:32:48+09:00"
+  "volume_capture_started_at": "2026-11-26T18:28:15+09:00",
+  "volume_capture_finished_at": "2026-11-26T18:28:42+09:00"
 }
